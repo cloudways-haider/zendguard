@@ -1,0 +1,7 @@
+---
+
+- name: restart apache2
+  command: /etc/init.d/apache2 restart
+
+- name: restart php5-fpm
+  command: /etc/init.d/php5-fpm restart
