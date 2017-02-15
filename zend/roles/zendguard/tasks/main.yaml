@@ -17,8 +17,11 @@
 #  when: php56.stdout
 - debug: msg="PHP Version = {{php56.stdout}}"
 
-- name: Copying ZendGuard files
+- name: Creating directory ...
   file: path=/usr/local/zend recurse=yes state=directory
+
+- name: Copying ZendGuard files
+#  file: path=/usr/local/zend recurse=yes state=directory
   copy: src={{ php56.stdout }}_{{ item }} dest=/usr/local/zend/{{ php56.stdout }}_{{ item }} owner=root group=root
   with_items: ['opcache.so', 'ZendGuardLoader.so']
 
@@ -26,7 +29,7 @@
   lineinfile: dest=/etc/php5/mods-available/opcache.ini regexp='^(.*)zend_extension=' line=;zend_extension=opcache.so
 
 - name: Disabling IonCube ...
-  lineinfile: dest=/etc/php5/mods-available/ioncube.ini regexp='^(.*)zend_extension =' line=;zend_extension = /usr/local/ioncube/ioncube_loader_lin_5.6.so
+  lineinfile: dest=/etc/php5/mods-available/ioncube.ini regexp='^(.*)zend_extension =' line=';zend_extension= /usr/local/ioncube/ioncube_loader_lin_5.6.so'
 
 - name: Configuring ZendGuardLoader ...
   template: src=zendguard.ini dest=/etc/php5/mods-available/
