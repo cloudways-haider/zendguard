@@ -37,10 +37,12 @@
 - name: Checking if FPM is intalled ...
   command: grep fpm /etc/ansible/facts.d/packages.fact
   register: reg1
-- set_fact: fpm1 =='apache2'
+  ignore_errors: yes
+- set_fact: fpm1='apache2'
   when: reg1.rc == 1
-- set_fact: fpm1 =='fpm'
-  when: reg2.rc == 0
+- set_fact: fpm1='fpm'
+  when: reg1.rc == 0
+- debug: msg="PHP = {{ fpm1 }}"
 
 - name: Creating Symlinks ...
   file: src=/etc/php5/mods-available/zendguard.ini dest=/etc/php5/{{ item }}/conf.d/06-zendguard.ini state=link
