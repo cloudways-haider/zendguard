@@ -34,15 +34,11 @@
 - name: Configuring ZendGuardLoader ...
   template: src=zendguard.ini dest=/etc/php5/mods-available/
 
-- name: Checking FPM is intalled ...
+- name: Checking if FPM is intalled ...
   command: grep fpm /etc/ansible/facts.d/packages.fact
   register: reg1
 - set_fact: fpm1 =='apache2'
   when: reg1.rc == 1
-
-- set_fact: fpm1 =='fpm'
-  command: grep fpm /etc/ansible/facts.d/packages.fact
-  register: reg2
 - set_fact: fpm1 =='fpm'
   when: reg2.rc == 0
 
@@ -51,6 +47,4 @@
   with_items: ['{{ fpm1 }}', 'cli']
   notify:
       - restart apache2
-q
-q
       - restart php5-fpm
