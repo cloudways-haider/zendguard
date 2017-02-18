@@ -24,12 +24,13 @@
 - name: Configuring ZendGuardLoader ...
   template: src=zendguard.ini dest=/etc/php5/mods-available/
 
-- set_fact: fpm1='apache2'
-  when: ansible_local.packages.version.fpm == "enable"
-- set_fact: fpm1='fpm'
-  when: ansible_local.packages.version.fpm != "enable"
-  tags: test
-- debug: msg="server is running {{ fpm1 }}"
+- set_fact: fpm1='{{ item.name }}'
+  with_items: ['apache2', 'fpm']
+  when: ansible_local.packages.version.fpm {{ item.action }} "enable"
+  with_items:
+    - { name: 'apache2', action: '==' }
+    - { name: 'fpm', action: '!=' }
+  tags: test1
 
 - name: Creating Symlinks ...
   file: src=/etc/php5/mods-available/zendguard.ini dest=/etc/php5/{{ item }}/conf.d/06-zendguard.ini state=link
