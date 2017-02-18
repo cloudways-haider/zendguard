@@ -1,28 +1,18 @@
 ---
 
 - name: Install required software
-  command: grep -r "php=7.0" /etc/ansible/facts.d/packages.fact
-  register: php7
-  ignore_errors: yes
-- fail:
+  fail:
     msg: >
-     Zendguard loader is not supported on PHP-7.0.
-  when: php7.stdout
-
-
-- name: Install required software
-  shell: grep -r "php=" /etc/ansible/facts.d/packages.fact | tail -c 4
-  register: php56
-  ignore_errors: yes
-#  when: php56.stdout
-- debug: msg="PHP Version = {{php56.stdout}}"
+     Zendguard loader is not supported on PHP-{{ ansible_local.packages.version.php }}.
+  when: ansible_local.packages.version.php == 7.0
+  tags: phpv
 
 - name: Creating directory ...
   file: path=/usr/local/zend recurse=yes state=directory
 
 - name: Copying ZendGuard files
 #  file: path=/usr/local/zend recurse=yes state=directory
-  copy: src={{ php56.stdout }}_{{ item }} dest=/usr/local/zend/{{ php56.stdout }}_{{ item }} owner=root group=root
+  copy: src={{ ansible_local.packages.version.php }}_{{ item }} dest=/usr/local/zend/{{ ansible_local.packages.version.php }}_{{ item }} owner=root group=root
   with_items: ['opcache.so', 'ZendGuardLoader.so']
 
 - name: Disabling Opcache ...
@@ -34,15 +24,12 @@
 - name: Configuring ZendGuardLoader ...
   template: src=zendguard.ini dest=/etc/php5/mods-available/
 
-- name: Checking if FPM is intalled ...
-  command: grep fpm /etc/ansible/facts.d/packages.fact
-  register: reg1
-  ignore_errors: yes
 - set_fact: fpm1='apache2'
-  when: reg1.rc == 1
+  when: ansible_local.packages.version.fpm == "enable"
 - set_fact: fpm1='fpm'
-  when: reg1.rc == 0
-- debug: msg="PHP = {{ fpm1 }}"
+  when: ansible_local.packages.version.fpm != "enable"
+  tags: test
+- debug: msg="server is running {{ fpm1 }}"
 
 - name: Creating Symlinks ...
   file: src=/etc/php5/mods-available/zendguard.ini dest=/etc/php5/{{ item }}/conf.d/06-zendguard.ini state=link
