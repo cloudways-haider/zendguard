@@ -1,1001 +1,1001 @@
 ﻿conversation_id,speaker_name ,speaker_type,text,utterance_id
-1,customer-success,customer-success,No there is no way to enforce https from dashboard.,1000
-1,customer-success,customer-success,"Hi, this is Zubair here from Customer Success",999
-1,william98,william98,how can i enforce https from the cloudway dashboard,998
-1,william98,william98,Good evening,997
-1,william98,william98,hi,996
-1,william98,william98,ohh i see,995
-1,customer-success,customer-success,"Further, the cron is setup at 12 am utc",994
-1,customer-success,customer-success,As you know varnish having issues with mobile detection and you will get site slowness issues regarding this redirection,993
-1,william98,william98,?,992
-1,william98,william98,i am asking,991
-1,william98,william98,can mobile users who visit <http://www.lindaikejisblog.com|www.lindaikejisblog.com> i.e the main domain be redirected to <http://www.lindaikejisblog.com/m|www.lindaikejisblog.com/m>,990
-1,william98,william98,yes,989
-1,customer-success,customer-success,Right now its 12 PM UTC on your server and you need to set cron on 12 AM UTC?,988
-1,customer-success,customer-success,Yes <@william98>,987
-1,william98,william98,hi can i ask a quick question,986
-1,customer-success,customer-success,"Hi, this is Zubair here from Customer Success",985
-1,william98,william98,"kindly set it daily, in the morning : 12:00am, but dont clear the the session now",984
-1,william98,william98,hmm  i see,983
-1,customer-success,customer-success,The server was inaccessible from GCE end.,982
-1,william98,william98,hmm what does that mean,981
-1,customer-success,customer-success,"Server seems to be stucked from upstream provider. Yes, i am able to access it now.",980
-1,william98,william98,nevermind,979
-1,william98,william98,it is back up,978
-1,customer-success,customer-success,Thanks for sharing details. I am looking into it and will get back to you.,977
-1,william98,william98,<mailto:uniquewill9@gmail.com|uniquewill9@gmail.com>,976
-1,customer-success,customer-success,Unfortunately i am unable to find your second account. Would you please provide me the registered email address against it so that i can further resolve this issue on priority basis.,975
-1,william98,william98,i dont like this downtime,974
-1,william98,william98,the server in my second account what is happening,973
-1,customer-success,customer-success,"Hi, This is Asher from Customer Success. Please hold on let me check",972
-1,william98,william98,?,971
-1,william98,william98,why is boonbuy down,970
-1,william98,william98,hello,969
-1,customer-success,customer-success,We have checked that your queries are excessively filling up the sessions.  We have removed the sessions at this moment which resolved this issue. We would suggest you to set the cron on daily basis of sessions removal which is set on execution once in two days .,968
-1,william98,william98,hello,967
-1,haider.jafri,haider.jafri,We are investigating the reason behind it we will shortly share our findings with you.,966
-1,william98,william98,<@william98> uploaded a file: <https://cw-premium.slack.com/files/william98/F7GNXBDBJ/error.jpg|error.JPG> and commented: We are loosing traffic because of this,965
-1,william98,william98,good,964
-1,haider.jafri,haider.jafri,"We are further checking it, we will update you shortly.",963
-1,william98,william98,people are complaining,962
-1,william98,william98,why is the website up and down,961
-1,customer-success,customer-success,Let me check it,960
-1,william98,william98,it keeps reappearing,959
-1,william98,william98,why 503 error,958
-1,customer-success,customer-success,Varnish was not refreshed as per the logs,957
-1,customer-success,customer-success,The Load on the site is 5.96,956
-1,customer-success,customer-success,Let me check that for you,955
-1,customer-success,customer-success,This is S.Rafat from Cloudways Customer Success.,954
-1,william98,william98,or restarted,953
-1,customer-success,customer-success,"Hi there,",952
-1,william98,william98,was vanish refreshed,951
-1,william98,william98,what is the load average on the website,950
-1,customer-success,customer-success,sorry pingdom is not working at my end but you can check Serve static content from a cookieless domain at <http://www.ravelrumba.com/blog/static-cookieless-domain/>,949
-1,william98,william98,Serve static content from a cookieless domain,948
-1,william98,william98,what does this mean,947
-1,william98,william98,it happens like that sometimes,946
-1,customer-success,customer-success,let me check with webpage,945
-1,william98,william98,try again,944
-1,william98,william98,<https://tools.pingdom.com/#!/d1CiYA/https://www.lindaikejisblog.com>,943
-1,customer-success,customer-success,so we checked it by restarting the services as it could be site which hung up but this is the pingdom which is not responding,942
-1,william98,william98,"because it keeps happening, i receive screenshot, i ignore them",941
-1,william98,william98,ohh i see,940
-1,customer-success,customer-success,because at the moment pingdom is not responding at our end,939
-1,william98,william98,why did you restart the vanish?,938
-1,customer-success,customer-success,"not server, services only",937
-1,william98,william98,?,936
-1,william98,william98,why did you restart the server,935
-1,william98,william98,why?,934
-1,william98,william98,this guy keeps happening,933
-1,customer-success,customer-success,restarted the services again that is why,932
-1,william98,william98,why?,931
-1,william98,william98,Error 503 Backend fetch failed  Backend fetch failed  Guru Meditation:  XID: 23461914  Varnish cache server,930
-1,william98,william98,<https://tools.pingdom.com/#!/bEGfxQ/https://www.lindaikejisblog.com>,929
-1,william98,william98,great,928
-1,william98,william98,okay,927
-1,customer-success,customer-success,no we restarted all the services earlier,926
-1,william98,william98,did you disable vanish ?,925
-1,customer-success,customer-success,where is the error,924
-1,william98,william98,i think redis timed out,923
-1,william98,william98,i saw an error now,922
-1,william98,william98,yes,921
-1,customer-success,customer-success,please let me know is there anything else I can do for you,920
-1,william98,william98,code error,919
-1,william98,william98,it works fine,918
-1,william98,william98,thank you,917
-1,customer-success,customer-success,<@william98>,916
-1,customer-success,customer-success,please check now,915
-1,customer-success,customer-success,"already in process, please wait",914
-1,william98,william98,there is no ssl there,913
-1,william98,william98,add ssl on <https://lindaikejisblog.com>,912
-1,customer-success,customer-success,done,911
-1,william98,william98,also remove Disallow: above User-agent: Browsershots,910
-1,customer-success,customer-success,removed 5:15,909
-1,william98,william98,it should be  User-agent: Browsershots Disallow:,908
-1,william98,william98,in my robot file you added:  Disallow: 5:15 User-agent: Browsershots Disallow:,907
-1,william98,william98,you will see what i mean,906
-1,william98,william98,then visit <https://lindaikejisblog.com>,905
-1,customer-success,customer-success,sure,904
-1,william98,william98,download firefox browser on your phone,903
-1,william98,william98,it is seeing it as insecure,902
-1,customer-success,customer-success,<@customer-success> uploaded a file: <https://cw-premium.slack.com/files/customer-success/F7FEDNTKK/screenshot_20171010-172929.png|Slack for Android Upload>,901
-1,william98,william98,this is a problem: <https://lindaikejisblog.com> on most browsers,900
-1,william98,william98,it is not redirect to <https://www.lindaikejisblog.com> and it is seeing <https://lindaikejisblog.com> as insecure,899
-1,customer-success,customer-success,"I again checked it from my end, please clear your browser cache and then check",898
-1,william98,william98,newly installed firefox mobile browser,897
-1,william98,william98,<@william98> uploaded a file: <https://cw-premium.slack.com/files/william98/F7G050QRY/a.jpg|a.jpg>,896
-1,customer-success,customer-success,<@customer-success> uploaded a file: <https://cw-premium.slack.com/files/customer-success/F7G48ERMK/screenshot_from_2017-10-10_17-26-28.png|Screenshot from 2017-10-10 17-26-28.png>,895
-1,customer-success,customer-success,"sure, please share",894
-1,william98,william98,i want to share a screenshot with you,893
-1,william98,william98,okay,892
-1,customer-success,customer-success,sorry I added in the wrong file,891
-1,william98,william98,"stop every other thing, just do  this!",890
-1,william98,william98,i need you to do a couple of this,889
-1,customer-success,customer-success,"Yes, i am checking at my end",888
-1,william98,william98,please are you there,887
-1,william98,william98,is not there,886
-1,william98,william98,User-agent: Browsershots Disallow:,885
-1,william98,william98,there,884
-1,william98,william98,i cannot see it,883
-1,william98,william98,<http://www.lindaikejisblog.com/robots.txt>,882
-1,customer-success,customer-success,<@customer-success> uploaded a file: <https://cw-premium.slack.com/files/customer-success/F7H2L2DRD/screenshot_from_2017-10-10_17-18-01.png|Screenshot from 2017-10-10 17-18-01.png> and commented: added in the robot.txt and it is still redirecting,881
-1,customer-success,customer-success,adding in robot.txt please wait,880
-1,william98,william98,User-agent: Browsershots Disallow:,879
-1,william98,william98,kindly add this to my User-agent: Browsershots Disallow:,878
-1,customer-success,customer-success,<@customer-success> uploaded a file: <https://cw-premium.slack.com/files/customer-success/F7GS19170/screenshot_20171010-171310.png|Screenshot_20171010-171310.png>,877
-1,william98,william98,to my robot.txt file,876
-1,william98,william98,User-agent: Browsershots Disallow:,875
-1,william98,william98,but first add this,874
-1,william98,william98,to verify my claims,873
-1,william98,william98,visit <https://www.browserling.com/browse/android/7.1/https%3A%2F%2Flindaikejisblog.com>,872
-1,customer-success,customer-success,checking the browser as it is redirecting at our end,871
-1,william98,william98,hello are you there,870
-1,william98,william98,<https://lindaikejisblog.com> not redirecting to <https://www.lindaikejisblog.com>,869
-1,william98,william98,visit <https://www.browserling.com/browse/android/7.1/https%3A%2F%2Flindaikejisblog.com>,868
-1,william98,william98,try to access the blog with internet explorer,867
-1,william98,william98,visit <https://www.browserling.com>,866
-1,customer-success,customer-success,On internet explorer its working fine. Can you please share the screenshot,865
-1,william98,william98,but her browser is internet explorer,864
-1,william98,william98,ssl is working on my own end,863
-1,william98,william98,please my girl friend is seeing unsecure connection on her browser,862
-1,customer-success,customer-success,thank you,861
-1,william98,william98,login is working now right,860
-1,william98,william98,good,859
-1,william98,william98,okay,858
-1,customer-success,customer-success,there isn't any change in SSL,857
-1,customer-success,customer-success,SSL is there,856
-1,william98,william98,all Nigerians would be seeing unsecure,855
-1,william98,william98,this is huge,854
-1,william98,william98,please the ssl make it come back cos the owner is calling me,853
-1,customer-success,customer-success,"we are working on it because all the settings are back as it was except for SSL, so checking why it is not working",852
-1,william98,william98,hello i need up now,851
-1,customer-success,customer-success,"working on it, because it is not getting HITS but it also not allowing to login",850
-1,william98,william98,the admins are calling me,849
-1,william98,william98,please how long,848
-1,customer-success,customer-success,"yes, working on it",847
-1,william98,william98,hello are you there?,846
-1,william98,william98,but for the blog it was enabled,845
-1,william98,william98,note: we disabled vanish for only <http://alexis.lindaikejisblog.com|alexis.lindaikejisblog.com>,844
-1,william98,william98,the admins cannot work,843
-1,william98,william98,kindly add it,842
-1,william98,william98,but i think it is because we changed from http to https,841
-1,william98,william98,we disabled it before,840
-1,william98,william98,vanish i thing is enabled here,839
-1,william98,william98,<https://alexis.lindaikejisblog.com/login#>,838
-1,william98,william98,hi bro,837
-1,customer-success,customer-success,sure and here is the TTFB or server and site is now responding in 2 sec <https://www.webpagetest.org/result/171010_9C_1340b71ca4bf06f62470203485fe14cb/>,836
-1,william98,william98,let us doing at night,835
-1,william98,william98,okay,834
-1,customer-success,customer-success,it will affect the live domain,833
-1,william98,william98,without affecting the live domain,832
-1,william98,william98,can you also add https to <http://admin.lindaikejisblog.com|admin.lindaikejisblog.com>,831
-1,william98,william98,okay,830
-1,customer-success,customer-success,check your site now,829
-1,william98,william98,okay,828
-1,customer-success,customer-success,installing SSL on the domain please wait,827
-1,william98,william98,helo,826
-1,william98,william98,thanks,825
-1,william98,william98,can you please make it work,824
-1,customer-success,customer-success,wait,823
-1,william98,william98,https not working on alexis,822
-1,william98,william98,https is flagging error,821
-1,william98,william98,not showing,820
-1,william98,william98,<https://alexis.lindaikejisblog.com/photos/shares/thumbs/59dc9dc1f1f19.jpg>,819
-1,william98,william98,quick one,818
-1,customer-success,customer-success,sure checking it would require some time to pull the site from the server directly,817
-1,william98,william98,kindly check again,816
-1,william98,william98,i just paused it,815
-1,william98,william98,okay,814
-1,customer-success,customer-success,from cloudflare control panel,813
-1,william98,william98,where?,812
-1,customer-success,customer-success,that's all we need,811
-1,customer-success,customer-success,yes just click on the orange cloud it would become grey,810
-1,william98,william98,in anyway,809
-1,william98,william98,would it affect us,808
-1,william98,william98,so you are saying i should disable cloudflare,807
-1,william98,william98,hmm i see,806
-1,customer-success,customer-success,kindly bypass the cloudflare as it seems CF is taking time to serve the static content,805
-1,william98,william98,okay,804
-1,customer-success,customer-success,"Hi, This is Abdul Rauf let me check",803
-1,william98,william98,<https://tools.pingdom.com/#!/IgjnI/https://www.lindaikejisblog.com>,802
-1,william98,william98,how can we improve this,801
-1,william98,william98,working perfect,800
-1,haider.jafri,haider.jafri,can you please check now,799
-1,william98,william98,<http://www.lindaikejisblog.com|www.lindaikejisblog.com>,798
-1,haider.jafri,haider.jafri,<http://lindaikejisblog.com|lindaikejisblog.com> is already redirecting to https.,797
-1,william98,william98,http redirect to https,796
-1,haider.jafri,haider.jafri,Sure,795
-1,haider.jafri,haider.jafri,"I have found that the Gzip compression was disabled on your server I have enabled it, you can verify it from here: <https://checkgzipcompression.com/?url=http%3A%2F%2Flindaikejisblog.com%2Fphotos%2Fshares%2F59da124ae6b35.png>",794
-1,william98,william98,yes please enforce it on all domains,793
-1,haider.jafri,haider.jafri,Should I set it?,792
-1,haider.jafri,haider.jafri,"No, we have not changed it.",791
-1,william98,william98,did anybody remove it,790
-1,william98,william98,it was,789
-1,william98,william98,hi https is not  enforced on our domain,788
-1,haider.jafri,haider.jafri,Sure,787
-1,haider.jafri,haider.jafri,"Please wait, let me check",786
-1,william98,william98,please do not delete any file,785
-1,william98,william98,<http://alexis.lindaikejisblog.com/photos/shares/59da124ae6b35.png>,784
-1,haider.jafri,haider.jafri,Can you share complete path for any of the image on which you believe compression is not working?,783
-1,william98,william98,you are sure it is compressing the image files,782
-1,haider.jafri,haider.jafri,Can you please updare if you are facing any issues with it.,781
-1,haider.jafri,haider.jafri,Gzip compression is enabled on the server by default.,780
-1,haider.jafri,haider.jafri,"Let me go through the document, please wait.",779
-1,haider.jafri,haider.jafri,HI,778
-1,william98,william98,<https://developers.google.com/speed/docs/insights/EnableCompression>,777
-1,william98,william98,please can this be done,776
-1,william98,william98,Good afternoon,775
-1,william98,william98,hello,774
-1,william98,william98,thanks,773
-1,customer-success,customer-success,<@william98>,772
-1,customer-success,customer-success,Your invoice has been successfully charged.,771
-1,william98,william98,thank you,770
-1,customer-success,customer-success,I'd really appreciate your patience in this regard,769
-1,customer-success,customer-success,I am forwarding your request to billing team and they will contact you asap.,768
-1,customer-success,customer-success,"Hi, this is Zubair here from Customer Success",767
-1,william98,william98,there is fund there,766
-1,william98,william98,i.e bill our card,765
-1,william98,william98,please can you tell the financial team to bill us for our server,764
-1,william98,william98,heloo,763
-1,customer-success,customer-success,services.php file is also created,762
-1,customer-success,customer-success,site is up again,761
-1,customer-success,customer-success,that is why error is there,760
-1,customer-success,customer-success,yes i can see from this end we also restarted the services,759
-1,william98,william98,this is the new error,758
-1,william98,william98,Error 503 Backend fetch failed  Backend fetch failed  Guru Meditation:,757
-1,william98,william98,i have fixed it,756
-1,william98,william98,thats all,755
-1,william98,william98,we need this php artisan config:cache to work,754
-1,william98,william98,if the cache file is in the bootstrap we will not get this error,753
-1,customer-success,customer-success,getting errors in error logs,752
-1,customer-success,customer-success,"[Wed Oct 04 12:24:27.565319 2017] [proxy_fcgi:error] [pid 15904] [client 127.0.0.1:60154] AH01071: Got error 'PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:749\nStack trace:\n#0 /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(749): ReflectionClass->__construct('view')\n#1 /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(644): Illuminate\\Container\\Container->build('view', Array)\n#2 /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(709): Illuminate\\Container\\Container->make('view', Array)\n#3 /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1203): Illuminate\\Foundation\\Application->make('view')\n#4 /mnt/data/home/104017.cloudwaysapps.com/wavgp...\nPHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:749\nStack trace:\n#0 /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(749): ReflectionClass->__construct('view')\n#1 /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(644): Illuminate\\Container\\Container->build('view', Array)\n#2 /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(709): Illuminate\\Container\\Container->make('view', Array)\n#3 /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1203): Illuminate\\Foundation\\Application->make('view')\n#4 /mnt/data/home/104017.cloudwaysapps.com/wavgp...\n'",751
-1,william98,william98,the site has been down for 5 minutes now,750
-1,customer-success,customer-success,"yes it is on 777, please wait let me check",749
-1,william98,william98,else it should create that folder,748
-1,william98,william98,is bootstrap 777,747
-1,william98,william98,i have done this serverally,746
-1,william98,william98,it should,745
-1,customer-success,customer-success,"yes, i do understand but it is not creating the cache folder and file even while running the command from the root user",744
-1,william98,william98,php artisan config:cache will create the cache folder in bootstrap,743
-1,william98,william98,?,742
-1,william98,william98,do you understand,741
-1,william98,william98,it will create it,740
-1,william98,william98,if you run   php artisan config:cache,739
-1,customer-success,customer-success,that is why you are getting this error,738
-1,customer-success,customer-success,in bootstrap,737
-1,customer-success,customer-success,there isn't any folder and file cache/services.php,736
-1,william98,william98,please,735
-1,william98,william98,you will see this error,734
-1,william98,william98,run php artisan config:cache,733
-1,william98,william98,run   [ErrorException]   file_put_contents(/mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/bootstrap/cache/se   rvices.php): failed to open stream: No such file or directory,732
-1,william98,william98,[ErrorException]   file_put_contents(/mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/bootstrap/cache/se   rvices.php): failed to open stream: No such file or directory,731
-1,customer-success,customer-success,"again reset the permissions, please check",730
-1,customer-success,customer-success,I just changed the permissions of public,729
-1,customer-success,customer-success,storage and bootstarp is already set with 0777,728
-1,william98,william98,my battery is almost dead,727
-1,william98,william98,please fix it,726
-1,william98,william98,<http://alexis.lindaikejisblog.com|alexis.lindaikejisblog.com>,725
-1,william98,william98,storage and bootstrap must be 0777,724
-1,william98,william98,error 500,723
-1,customer-success,customer-success,"I have reset the permission to 775, please try now to upload the images",722
-1,william98,william98,what is the permission there please,721
-1,william98,william98,because images are not being uploaded,720
-1,william98,william98,can you check the permissions for public_html/public,719
-1,william98,william98,hi,718
-1,customer-success,customer-success,"permission has been assigned, please check",717
-1,william98,william98,basically can you make storage/framework/sessions writable 0777,716
-1,william98,william98,for the admin users,715
-1,william98,william98,so file storage doesnt work,714
-1,customer-success,customer-success,sure,713
-1,william98,william98,okay i will move to file shortly in the night we will move to memcache so it doesn't disturb,712
-1,customer-success,customer-success,"as redis was in use but the performance was not stable, you can try the memecached as it is already installed on the server you just need to add the connector",711
-1,william98,william98,"The session configuration file is stored at config/session.php. Be sure to review the options available to you in this file. By default, Laravel is configured to use the file session driver, which will work well for many applications. In production applications, you may consider using the  memcached or redis drivers for even faster session performanc",710
-1,william98,william98,from laravel,709
-1,william98,william98,but i prefer using redis,708
-1,william98,william98,please verify,707
-1,william98,william98,storage/framework/sessions,706
-1,customer-success,customer-success,please share the session path where you have define because it requires to set the cron,705
-1,customer-success,customer-success,"yes, now the sessions seems to be moved on files",704
-1,william98,william98,please check if the session queries are on files,703
-1,customer-success,customer-success,same result,702
-1,william98,william98,php artisan cache:config,701
-1,customer-success,customer-success,cache:clear is working fine but it is not recognizing config:cache,700
-1,customer-success,customer-success,"getting these messages while running   [Symfony\Component\Console\Exception\CommandNotFoundException]     Command ""cache:config"" is not defined.                             Did you mean one of these?                                             cache:clear                                                        cache:table",699
-1,william98,william98,sorry php artisan cache:config,698
-1,william98,william98,?,697
-1,william98,william98,did you run the php artisan config:cache,696
-1,william98,william98,working now,695
-1,customer-success,customer-success,please check now,694
-1,customer-success,customer-success,yes working on it,693
-1,william98,william98,i am getting calls,692
-1,william98,william98,are you there?,691
-1,william98,william98,a new cache file will be generated,690
-1,william98,william98,i will execute php artisan cache:config,689
-1,william98,william98,so make bootstrap writable,688
-1,william98,william98,yes the bootstrap/cache file,687
-1,customer-success,customer-success,and file is trying to read bootstrap/cache,686
-1,customer-success,customer-success,in bootstrap the folder is having name cache1 not only cache,685
-1,customer-success,customer-success,let me check,684
-1,william98,william98,error 500,683
-1,customer-success,customer-success,"done, please check",682
-1,william98,william98,thanks,681
-1,william98,william98,chmod -R 0777 bootstrap/,680
-1,customer-success,customer-success,let me change it for you,679
-1,william98,william98,chmod: changing permissions of ‘bootstrap/cache1/services.php’: Operation not permitted,678
-1,william98,william98,i cant oops,677
-1,customer-success,customer-success,ok thank you,676
-1,william98,william98,dont worry let me change the permission,675
-1,customer-success,customer-success,one moment let me check,674
-1,customer-success,customer-success,sure we will do that,673
-1,william98,william98,why,672
-1,william98,william98,php artisan cache:config,671
-1,william98,william98,[ErrorException]   file_put_contents(/mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/bootstrap/cache/services.php): fai   led to open stream: No such file or directory,670
-1,william98,william98,in the morning,669
-1,william98,william98,is fine,668
-1,william98,william98,every 2 days,667
-1,customer-success,customer-success,let us know the time as per your ease we will set it,666
-1,william98,william98,the cron would happen run every ?,665
-1,customer-success,customer-success,"yes, because the session will take place on disk and then we will set cron to remove those sessions from the disk",664
-1,william98,william98,"okay, you sure?",663
-1,customer-success,customer-success,change sessions path from database to file system,662
-1,william98,william98,?,661
-1,william98,william98,what is the solution,660
-1,william98,william98,hmmm,659
-1,customer-success,customer-success,sessions are still on database as database is getting load and queries are still there,658
-1,william98,william98,i just changed it,657
-1,william98,william98,please check if the session has been moved to redis and not database,656
-1,william98,william98,interesting,655
-1,customer-success,customer-success,it is again the session queries despite the cron is set for 2 days,654
-1,customer-success,customer-success,"Hi, this is Abdul Rauf let me check",653
-1,william98,william98,what might be causing it,652
-1,william98,william98,the website is slow,651
-1,customer-success,customer-success,We have forwarded your request to the relevant team. They are contacting you via Email.,650
-1,customer-success,customer-success,"Hi, This is Asher from Customer Success. Please hold on let me check the possibilities of it.",649
-1,william98,william98,i am avaliable,648
-1,william98,william98,call email,647
-1,william98,william98,please can someone reach out to me,646
-1,william98,william98,please i want us to pay tomorrow,645
-1,william98,william98,please i am waiting for your financial team,644
-1,william98,william98,okay,643
-1,customer-success,customer-success,"Sorry for the bit delay in response, it was occurred because we restarted the services",642
-1,william98,william98,what would cause this,641
-1,william98,william98,Varnish cache server,640
-1,william98,william98,Error 503 Backend fetch failed  Backend fetch failed  Guru Meditation:  XID: 720920,639
-1,customer-success,customer-success,yes,638
-1,william98,william98,have you cleared the session,637
-1,william98,william98,make it in the morning,636
-1,william98,william98,okay,635
-1,customer-success,customer-success,if you allow us then we will set the cron frequency from week to 2 days,634
-1,customer-success,customer-success,"cron is set to weekly, we believe that we need to increase the cron frequency",633
-1,william98,william98,the cron didnt run,632
-1,william98,william98,wow!!!,631
-1,customer-success,customer-success,again your session queries creating load on the server we are clearing the sessions,630
-1,william98,william98,okay,629
-1,customer-success,customer-success,"working on sever, please wait",628
-1,william98,william98,about the server,627
-1,william98,william98,"yes, please immediately, so we can resolve this once and for all",626
-1,customer-success,customer-success,I am escalating your billing query to your account manager and you will be updated by him,625
-1,william98,william98,can the billing of the server while it was in the normal account be moved to the invoice of the new account,624
-1,william98,william98,the new server we transferred to the other account,623
-1,william98,william98,also please can i have the financial department here,622
-1,customer-success,customer-success,<@customer-success> uploaded a file: <https://cw-premium.slack.com/files/customer-success/F7CF2DU02/screenshot_from_2017-10-03_15-50-33.png|Screenshot from 2017-10-03 15-50-33.png>,621
-1,customer-success,customer-success,"we can access the site, checking the server please wait",620
-1,william98,william98,the website has been showing 502 error,619
-1,william98,william98,it is up now,618
-1,customer-success,customer-success,"Hi. THis is Abdul Rauf, let me check please",617
-1,william98,william98,?,616
-1,william98,william98,and the blog is down,615
-1,william98,william98,we are about to recharge our card and make payment for  <http://lindaikejisblog.com|lindaikejisblog.com>,614
-1,william98,william98,hello,613
-1,william98,william98,thanks,612
-1,cloudways.ahmed,cloudways.ahmed,Here you go,611
-1,cloudways.ahmed,cloudways.ahmed,<@cloudways.ahmed> uploaded a file: <https://cw-premium.slack.com/files/cloudways.ahmed/F7B9WM8UB/invoice157849.pdf|invoice157849.pdf>,610
-1,william98,william98,<mailto:william@fluturetech.com|william@fluturetech.com>,609
-1,william98,william98,thank you,608
-1,cloudways.ahmed,cloudways.ahmed,"Okay, So I am sending you the invoice of last month in which the usage and billing is distinguished server wise.",607
-1,william98,william98,"i want to balance account,  i would want that today, as this the end of the month, we want to balance our sheets",606
-1,william98,william98,also for this coming month can the invoice be split for both account,605
-1,william98,william98,"is the split bill for last month, i want to see the charges on each server so i can balance my client that made payment for both servers last month",604
-1,william98,william98,now please what i need from the team,603
-1,cloudways.ahmed,cloudways.ahmed,That's great,602
-1,william98,william98,thank you,601
-1,cloudways.ahmed,cloudways.ahmed,hi <@william98>,600
-1,william98,william98,"i just did it now, it was successful",599
-1,william98,william98,hi Hassam,598
-1,hassam,hassam,"<@william98> can you please try to transfer the server now manually trying to transfer the server can result in mishap so we are not going for it, we have the dev team onboard for it now in case any issue occurs.",597
-1,hassam,hassam,"<@william98> Please do not worry, We will go through it in detail and make sure it gets resolved by today.",596
-1,william98,william98,!,595
-1,william98,william98,today,594
-1,william98,william98,on my behalf,593
-1,william98,william98,please do the transfer to the account,592
-1,william98,william98,"Hello William Nwogbo, The Transfer Server request that you created for your server with Uniquewill could not be completed due to unexpected error. You can start the transfer process again if you wish.",591
-1,U2WEFPJTF,U2WEFPJTF,"ok, let me check",590
-1,william98,william98,i have tried it,589
-1,william98,william98,it failed,588
-1,william98,william98,okay,587
-1,U2WEFPJTF,U2WEFPJTF,"<@william98> i had a discussion with our team and they had tried to replicate this by sharing the server to some of our accounts just for testing purpose and it was shared successfully, so could you please let us know, have you tried it again ?",586
-1,cloudways.ahmed,cloudways.ahmed,Have you tried again <@william98>?,585
-1,william98,william98,i need this moved becos of another invoice,584
-1,U2WEFPJTF,U2WEFPJTF,Hi <@william98> we will check this issue again and will get back to you accordingly.,583
-1,william98,william98,"with regards to this, i havent seen the server on the other account",582
-1,william98,william98,great great,581
-1,haider.jafri,haider.jafri,I have set the Cronjob to truncate sessions table on every Saturday night.,580
-1,william98,william98,every week,579
-1,william98,william98,great,578
-1,haider.jafri,haider.jafri,I am setting up the cronjob  too,577
-1,william98,william98,thanks,576
-1,haider.jafri,haider.jafri,I have truncated it,575
-1,william98,william98,please when its done inform me,574
-1,william98,william98,thank you,573
-1,haider.jafri,haider.jafri,That would be better if we keep clearing it.,572
-1,william98,william98,please do it now cos there is a breaking new,571
-1,william98,william98,great,570
-1,haider.jafri,haider.jafri,"Yes, I can set a cronjob for that",569
-1,william98,william98,more like every week,568
-1,haider.jafri,haider.jafri,"Ok, please wait",567
-1,william98,william98,can we truncate it once in a week,566
-1,william98,william98,yes the session table,565
-1,haider.jafri,haider.jafri,should I truncate it?,564
-1,william98,william98,table,563
-1,william98,william98,the session,562
-1,william98,william98,not the database,561
-1,william98,william98,can you clear the database,560
-1,haider.jafri,haider.jafri,"Ok, so are are you fixing it at your end?",559
-1,william98,william98,it is still database,558
-1,william98,william98,ohhh thats true you are right,557
-1,william98,william98,we changed it to redis,556
-1,haider.jafri,haider.jafri,Database.,555
-1,william98,william98,?,554
-1,william98,william98,db or redis,553
-1,haider.jafri,haider.jafri,There are high number of session queries,552
-1,haider.jafri,haider.jafri,"I am checking it, please wait",551
-1,william98,william98,what might be causing it,550
-1,william98,william98,it is saying site cannot be reached,549
-1,william98,william98,the website is not reachable,548
-1,haider.jafri,haider.jafri,"Hi, please wait, let me check that",547
-1,william98,william98,Hello please what is the load average\,546
-1,william98,william98,okay,545
-1,customer-success,customer-success,"Hi, Dear william Abdul Rauf, kindly try now to share your server as we have tried at our end and it has been shared, please check and from your end and do let us know the result",544
-1,customer-success,customer-success,Thanks a lot for your co-operation in this regards. We certainly understand your urgency in this matter and are trying our best to get this sorted ASAP,543
-1,william98,william98,sure,542
-1,william98,william98,okay,541
-1,customer-success,customer-success,"Hi <@william98>, this is S.Rafat from Cloudways Customer Success.  This is to inform you that your issue with the server transfer is being checked thoroughly by us . We will update you once we have got to know the root cause. We would certainly appreciate your co-operation in this regards",540
-1,customer-success,customer-success,We are checking the issue and will update you accordingly.,539
-1,william98,william98,it keeps on declining,538
-1,william98,william98,process it from your end,537
-1,william98,william98,this is becoming frustrating,536
-1,william98,william98,Just do the transfer for me,535
-1,william98,william98,this thing is not working,534
-1,cloudways.ahmed,cloudways.ahmed,After that you must have received the confirmation email,533
-1,cloudways.ahmed,cloudways.ahmed,so you have clicked on the transfer server and inserted the existing customer's email address their,532
-1,cloudways.ahmed,cloudways.ahmed,Oh <@william98> Let me check,531
-1,william98,william98,this is painful,530
-1,william98,william98,"Hello William Nwogbo, The Transfer Server request that you created for your server with Uniquewill could not be completed due to unexpected error. You can start the transfer process again if you wish.",529
-1,customer-success,customer-success,We have sent server transfer request to <mailto:uniquewill9@gmail.com|uniquewill9@gmail.com> can you please accept it,528
-1,customer-success,customer-success,Please hold on let me check the issue,527
-1,customer-success,customer-success,"Ok I got the IP you are requiring to transfer from the Chat history ""35.194.206.123""",526
-1,customer-success,customer-success,Can you please confirm the server you are transferring from <mailto:williamnwogbo@gmail.com|williamnwogbo@gmail.com>,525
-1,customer-success,customer-success,"Sure, Please hold on we are looking into it.",524
-1,william98,william98,destination <mailto:uniquewill9@gmail.com|uniquewill9@gmail.com>,523
-1,william98,william98,<mailto:williamnwogbo@gmail.com|williamnwogbo@gmail.com> source,522
-1,customer-success,customer-success,Can you please let me know  the source and destination email ID's,521
-1,william98,william98,<mailto:uniquewill9@gmail.com|uniquewill9@gmail.com>,520
-1,customer-success,customer-success,Thanks a lot for the update. Can you please confirm the email ID from which you are transferring the server so that we can check it,519
-1,customer-success,customer-success,Hi there,518
-1,william98,william98,"clicked it, it keeps on failing",517
-1,U2WEFPJTF,U2WEFPJTF,Could you please confirm it  on <mailto:uniquewill9@gmail.com|uniquewill9@gmail.com>,516
-1,U2WEFPJTF,U2WEFPJTF,"ok, don't worry, let me check",515
-1,william98,william98,i didnt receive any request,514
-1,haider.jafri,haider.jafri,I have sent a new request.,513
-1,william98,william98,expired,512
-1,william98,william98,okay,511
-1,haider.jafri,haider.jafri,can you please try again?,510
-1,haider.jafri,haider.jafri,"Let me check it, please wait",509
-1,william98,william98,Oops! The Server transfer process was unsuccessful.,508
-1,william98,william98,didnt work,507
-1,william98,william98,it is failing,506
-1,haider.jafri,haider.jafri,Please check now.,505
-1,william98,william98,okay,504
-1,william98,william98,"Hello William Nwogbo, The Transfer Server request that you created for your server with Uniquewill could not be completed due to unexpected error. You can start the transfer process again if you wish",503
-1,haider.jafri,haider.jafri,"Ok, I am regenerating the request",502
-1,william98,william98,it says the link has expired,501
-1,william98,william98,clicked,500
-1,william98,william98,okay,499
-1,haider.jafri,haider.jafri,Can you please confirm it?,498
-1,haider.jafri,haider.jafri,YOu should have received an Email <mailto:onuniquewill9@gmail.com|onuniquewill9@gmail.com>,497
-1,william98,william98,35.194.206.123,496
-1,haider.jafri,haider.jafri,can you please confirm the IP address of the server you want to transfer?,495
-1,haider.jafri,haider.jafri,"Sure, please wait for a while I will update you shortly",494
-1,william98,william98,help me with this,493
-1,william98,william98,also can i see an invoice per server so i can pay the second client accordinly i am under pressure,492
-1,william98,william98,i didnt get any response from you,491
-1,william98,william98,please can the second server be transfer to the second account,490
-1,haider.jafri,haider.jafri,Hi,489
-1,william98,william98,Hi,488
-1,william98,william98,okay thanks,487
-1,cloudways.ahmed,cloudways.ahmed,and also please contact the google web master tool to fetch the reason behind not being ranked.,486
-1,cloudways.ahmed,cloudways.ahmed,"Well, for that you will need to opt the best keywords for your site and have to make sure that onpage SEO is well configured",485
-1,william98,william98,how do we improve our seo,484
-1,william98,william98,"since we moved to the new website, we dont get rankings on Google",483
-1,cloudways.ahmed,cloudways.ahmed,Yes <@william98> Please ask,482
-1,william98,william98,i need help,481
-1,william98,william98,please i have a question,480
-1,william98,william98,<mailto:uniquewill9@gmail.com|uniquewill9@gmail.com>  and 35.194.206.123,479
-1,cloudways.ahmed,cloudways.ahmed,"<@william98> Can you please share the server IP, desired email account, to which you want to transfer your server.",478
-1,cloudways.ahmed,cloudways.ahmed,"Ok please hold, let me check the logs",477
-1,william98,william98,please do the transfer your self,476
-1,william98,william98,"TRANSFER SERVER FAILED   Hello William Nwogbo, The Transfer Server request that you created for your server with Uniquewill could not be completed due to unexpected error. You can start the transfer process again if you wish.  If you require guidance on how to transfer a server, please click here.",475
-1,cloudways.ahmed,cloudways.ahmed,"Okay now please proceed further as mentioned in the KB, we believe that you will not face any issue",474
-1,william98,william98,i have upgraded the account,473
-1,cloudways.ahmed,cloudways.ahmed,"Please confirm,   1- Have you upgraded the account ?  If yes, then please proceed with the server transfer process. Here is the KB:  <https://support.cloudways.com/how-to-transfer-server-to-another-account/>",472
-1,william98,william98,hi Ahmed,471
-1,cloudways.ahmed,cloudways.ahmed,Hi <@william98>,470
-1,william98,william98,"Good Morning, i have done this, can the transfer of server be process now.",469
+1,customer-success,agent,No there is no way to enforce https from dashboard.,1000
+1,customer-success,agent,"Hi, this is Zubair here from Customer Success",999
+1,william98,customer,how can i enforce https from the cloudway dashboard,998
+1,william98,customer,Good evening,997
+1,william98,customer,hi,996
+1,william98,customer,ohh i see,995
+1,customer-success,agent,"Further, the cron is setup at 12 am utc",994
+1,customer-success,agent,As you know varnish having issues with mobile detection and you will get site slowness issues regarding this redirection,993
+1,william98,customer,?,992
+1,william98,customer,i am asking,991
+1,william98,customer,can mobile users who visit <http://www.lindaikejisblog.com|www.lindaikejisblog.com> i.e the main domain be redirected to <http://www.lindaikejisblog.com/m|www.lindaikejisblog.com/m>,990
+1,william98,customer,yes,989
+1,customer-success,agent,Right now its 12 PM UTC on your server and you need to set cron on 12 AM UTC?,988
+1,customer-success,agent,Yes <@william98>,987
+1,william98,customer,hi can i ask a quick question,986
+1,customer-success,agent,"Hi, this is Zubair here from Customer Success",985
+1,william98,customer,"kindly set it daily, in the morning : 12:00am, but dont clear the the session now",984
+1,william98,customer,hmm  i see,983
+1,customer-success,agent,The server was inaccessible from GCE end.,982
+1,william98,customer,hmm what does that mean,981
+1,customer-success,agent,"Server seems to be stucked from upstream provider. Yes, i am able to access it now.",980
+1,william98,customer,nevermind,979
+1,william98,customer,it is back up,978
+1,customer-success,agent,Thanks for sharing details. I am looking into it and will get back to you.,977
+1,william98,customer,<mailto:uniquewill9@gmail.com|uniquewill9@gmail.com>,976
+1,customer-success,agent,Unfortunately i am unable to find your second account. Would you please provide me the registered email address against it so that i can further resolve this issue on priority basis.,975
+1,william98,customer,i dont like this downtime,974
+1,william98,customer,the server in my second account what is happening,973
+1,customer-success,agent,"Hi, This is Asher from Customer Success. Please hold on let me check",972
+1,william98,customer,?,971
+1,william98,customer,why is boonbuy down,970
+1,william98,customer,hello,969
+1,customer-success,agent,We have checked that your queries are excessively filling up the sessions.  We have removed the sessions at this moment which resolved this issue. We would suggest you to set the cron on daily basis of sessions removal which is set on execution once in two days .,968
+1,william98,customer,hello,967
+1,haider.jafri,agent,We are investigating the reason behind it we will shortly share our findings with you.,966
+1,william98,customer,<@william98> uploaded a file: <https://cw-premium.slack.com/files/william98/F7GNXBDBJ/error.jpg|error.JPG> and commented: We are loosing traffic because of this,965
+1,william98,customer,good,964
+1,haider.jafri,agent,"We are further checking it, we will update you shortly.",963
+1,william98,customer,people are complaining,962
+1,william98,customer,why is the website up and down,961
+1,customer-success,agent,Let me check it,960
+1,william98,customer,it keeps reappearing,959
+1,william98,customer,why 503 error,958
+1,customer-success,agent,Varnish was not refreshed as per the logs,957
+1,customer-success,agent,The Load on the site is 5.96,956
+1,customer-success,agent,Let me check that for you,955
+1,customer-success,agent,This is S.Rafat from Cloudways Customer Success.,954
+1,william98,customer,or restarted,953
+1,customer-success,agent,"Hi there,",952
+1,william98,customer,was vanish refreshed,951
+1,william98,customer,what is the load average on the website,950
+1,customer-success,agent,sorry pingdom is not working at my end but you can check Serve static content from a cookieless domain at <http://www.ravelrumba.com/blog/static-cookieless-domain/>,949
+1,william98,customer,Serve static content from a cookieless domain,948
+1,william98,customer,what does this mean,947
+1,william98,customer,it happens like that sometimes,946
+1,customer-success,agent,let me check with webpage,945
+1,william98,customer,try again,944
+1,william98,customer,<https://tools.pingdom.com/#!/d1CiYA/https://www.lindaikejisblog.com>,943
+1,customer-success,agent,so we checked it by restarting the services as it could be site which hung up but this is the pingdom which is not responding,942
+1,william98,customer,"because it keeps happening, i receive screenshot, i ignore them",941
+1,william98,customer,ohh i see,940
+1,customer-success,agent,because at the moment pingdom is not responding at our end,939
+1,william98,customer,why did you restart the vanish?,938
+1,customer-success,agent,"not server, services only",937
+1,william98,customer,?,936
+1,william98,customer,why did you restart the server,935
+1,william98,customer,why?,934
+1,william98,customer,this guy keeps happening,933
+1,customer-success,agent,restarted the services again that is why,932
+1,william98,customer,why?,931
+1,william98,customer,Error 503 Backend fetch failed  Backend fetch failed  Guru Meditation:  XID: 23461914  Varnish cache server,930
+1,william98,customer,<https://tools.pingdom.com/#!/bEGfxQ/https://www.lindaikejisblog.com>,929
+1,william98,customer,great,928
+1,william98,customer,okay,927
+1,customer-success,agent,no we restarted all the services earlier,926
+1,william98,customer,did you disable vanish ?,925
+1,customer-success,agent,where is the error,924
+1,william98,customer,i think redis timed out,923
+1,william98,customer,i saw an error now,922
+1,william98,customer,yes,921
+1,customer-success,agent,please let me know is there anything else I can do for you,920
+1,william98,customer,code error,919
+1,william98,customer,it works fine,918
+1,william98,customer,thank you,917
+1,customer-success,agent,<@william98>,916
+1,customer-success,agent,please check now,915
+1,customer-success,agent,"already in process, please wait",914
+1,william98,customer,there is no ssl there,913
+1,william98,customer,add ssl on <https://lindaikejisblog.com>,912
+1,customer-success,agent,done,911
+1,william98,customer,also remove Disallow: above User-agent: Browsershots,910
+1,customer-success,agent,removed 5:15,909
+1,william98,customer,it should be  User-agent: Browsershots Disallow:,908
+1,william98,customer,in my robot file you added:  Disallow: 5:15 User-agent: Browsershots Disallow:,907
+1,william98,customer,you will see what i mean,906
+1,william98,customer,then visit <https://lindaikejisblog.com>,905
+1,customer-success,agent,sure,904
+1,william98,customer,download firefox browser on your phone,903
+1,william98,customer,it is seeing it as insecure,902
+1,customer-success,agent,<@customer-success> uploaded a file: <https://cw-premium.slack.com/files/customer-success/F7FEDNTKK/screenshot_20171010-172929.png|Slack for Android Upload>,901
+1,william98,customer,this is a problem: <https://lindaikejisblog.com> on most browsers,900
+1,william98,customer,it is not redirect to <https://www.lindaikejisblog.com> and it is seeing <https://lindaikejisblog.com> as insecure,899
+1,customer-success,agent,"I again checked it from my end, please clear your browser cache and then check",898
+1,william98,customer,newly installed firefox mobile browser,897
+1,william98,customer,<@william98> uploaded a file: <https://cw-premium.slack.com/files/william98/F7G050QRY/a.jpg|a.jpg>,896
+1,customer-success,agent,<@customer-success> uploaded a file: <https://cw-premium.slack.com/files/customer-success/F7G48ERMK/screenshot_from_2017-10-10_17-26-28.png|Screenshot from 2017-10-10 17-26-28.png>,895
+1,customer-success,agent,"sure, please share",894
+1,william98,customer,i want to share a screenshot with you,893
+1,william98,customer,okay,892
+1,customer-success,agent,sorry I added in the wrong file,891
+1,william98,customer,"stop every other thing, just do  this!",890
+1,william98,customer,i need you to do a couple of this,889
+1,customer-success,agent,"Yes, i am checking at my end",888
+1,william98,customer,please are you there,887
+1,william98,customer,is not there,886
+1,william98,customer,User-agent: Browsershots Disallow:,885
+1,william98,customer,there,884
+1,william98,customer,i cannot see it,883
+1,william98,customer,<http://www.lindaikejisblog.com/robots.txt>,882
+1,customer-success,agent,<@customer-success> uploaded a file: <https://cw-premium.slack.com/files/customer-success/F7H2L2DRD/screenshot_from_2017-10-10_17-18-01.png|Screenshot from 2017-10-10 17-18-01.png> and commented: added in the robot.txt and it is still redirecting,881
+1,customer-success,agent,adding in robot.txt please wait,880
+1,william98,customer,User-agent: Browsershots Disallow:,879
+1,william98,customer,kindly add this to my User-agent: Browsershots Disallow:,878
+1,customer-success,agent,<@customer-success> uploaded a file: <https://cw-premium.slack.com/files/customer-success/F7GS19170/screenshot_20171010-171310.png|Screenshot_20171010-171310.png>,877
+1,william98,customer,to my robot.txt file,876
+1,william98,customer,User-agent: Browsershots Disallow:,875
+1,william98,customer,but first add this,874
+1,william98,customer,to verify my claims,873
+1,william98,customer,visit <https://www.browserling.com/browse/android/7.1/https%3A%2F%2Flindaikejisblog.com>,872
+1,customer-success,agent,checking the browser as it is redirecting at our end,871
+1,william98,customer,hello are you there,870
+1,william98,customer,<https://lindaikejisblog.com> not redirecting to <https://www.lindaikejisblog.com>,869
+1,william98,customer,visit <https://www.browserling.com/browse/android/7.1/https%3A%2F%2Flindaikejisblog.com>,868
+1,william98,customer,try to access the blog with internet explorer,867
+1,william98,customer,visit <https://www.browserling.com>,866
+1,customer-success,agent,On internet explorer its working fine. Can you please share the screenshot,865
+1,william98,customer,but her browser is internet explorer,864
+1,william98,customer,ssl is working on my own end,863
+1,william98,customer,please my girl friend is seeing unsecure connection on her browser,862
+1,customer-success,agent,thank you,861
+1,william98,customer,login is working now right,860
+1,william98,customer,good,859
+1,william98,customer,okay,858
+1,customer-success,agent,there isn't any change in SSL,857
+1,customer-success,agent,SSL is there,856
+1,william98,customer,all Nigerians would be seeing unsecure,855
+1,william98,customer,this is huge,854
+1,william98,customer,please the ssl make it come back cos the owner is calling me,853
+1,customer-success,agent,"we are working on it because all the settings are back as it was except for SSL, so checking why it is not working",852
+1,william98,customer,hello i need up now,851
+1,customer-success,agent,"working on it, because it is not getting HITS but it also not allowing to login",850
+1,william98,customer,the admins are calling me,849
+1,william98,customer,please how long,848
+1,customer-success,agent,"yes, working on it",847
+1,william98,customer,hello are you there?,846
+1,william98,customer,but for the blog it was enabled,845
+1,william98,customer,note: we disabled vanish for only <http://alexis.lindaikejisblog.com|alexis.lindaikejisblog.com>,844
+1,william98,customer,the admins cannot work,843
+1,william98,customer,kindly add it,842
+1,william98,customer,but i think it is because we changed from http to https,841
+1,william98,customer,we disabled it before,840
+1,william98,customer,vanish i thing is enabled here,839
+1,william98,customer,<https://alexis.lindaikejisblog.com/login#>,838
+1,william98,customer,hi bro,837
+1,customer-success,agent,sure and here is the TTFB or server and site is now responding in 2 sec <https://www.webpagetest.org/result/171010_9C_1340b71ca4bf06f62470203485fe14cb/>,836
+1,william98,customer,let us doing at night,835
+1,william98,customer,okay,834
+1,customer-success,agent,it will affect the live domain,833
+1,william98,customer,without affecting the live domain,832
+1,william98,customer,can you also add https to <http://admin.lindaikejisblog.com|admin.lindaikejisblog.com>,831
+1,william98,customer,okay,830
+1,customer-success,agent,check your site now,829
+1,william98,customer,okay,828
+1,customer-success,agent,installing SSL on the domain please wait,827
+1,william98,customer,helo,826
+1,william98,customer,thanks,825
+1,william98,customer,can you please make it work,824
+1,customer-success,agent,wait,823
+1,william98,customer,https not working on alexis,822
+1,william98,customer,https is flagging error,821
+1,william98,customer,not showing,820
+1,william98,customer,<https://alexis.lindaikejisblog.com/photos/shares/thumbs/59dc9dc1f1f19.jpg>,819
+1,william98,customer,quick one,818
+1,customer-success,agent,sure checking it would require some time to pull the site from the server directly,817
+1,william98,customer,kindly check again,816
+1,william98,customer,i just paused it,815
+1,william98,customer,okay,814
+1,customer-success,agent,from cloudflare control panel,813
+1,william98,customer,where?,812
+1,customer-success,agent,that's all we need,811
+1,customer-success,agent,yes just click on the orange cloud it would become grey,810
+1,william98,customer,in anyway,809
+1,william98,customer,would it affect us,808
+1,william98,customer,so you are saying i should disable cloudflare,807
+1,william98,customer,hmm i see,806
+1,customer-success,agent,kindly bypass the cloudflare as it seems CF is taking time to serve the static content,805
+1,william98,customer,okay,804
+1,customer-success,agent,"Hi, This is Abdul Rauf let me check",803
+1,william98,customer,<https://tools.pingdom.com/#!/IgjnI/https://www.lindaikejisblog.com>,802
+1,william98,customer,how can we improve this,801
+1,william98,customer,working perfect,800
+1,haider.jafri,agent,can you please check now,799
+1,william98,customer,<http://www.lindaikejisblog.com|www.lindaikejisblog.com>,798
+1,haider.jafri,agent,<http://lindaikejisblog.com|lindaikejisblog.com> is already redirecting to https.,797
+1,william98,customer,http redirect to https,796
+1,haider.jafri,agent,Sure,795
+1,haider.jafri,agent,"I have found that the Gzip compression was disabled on your server I have enabled it, you can verify it from here: <https://checkgzipcompression.com/?url=http%3A%2F%2Flindaikejisblog.com%2Fphotos%2Fshares%2F59da124ae6b35.png>",794
+1,william98,customer,yes please enforce it on all domains,793
+1,haider.jafri,agent,Should I set it?,792
+1,haider.jafri,agent,"No, we have not changed it.",791
+1,william98,customer,did anybody remove it,790
+1,william98,customer,it was,789
+1,william98,customer,hi https is not  enforced on our domain,788
+1,haider.jafri,agent,Sure,787
+1,haider.jafri,agent,"Please wait, let me check",786
+1,william98,customer,please do not delete any file,785
+1,william98,customer,<http://alexis.lindaikejisblog.com/photos/shares/59da124ae6b35.png>,784
+1,haider.jafri,agent,Can you share complete path for any of the image on which you believe compression is not working?,783
+1,william98,customer,you are sure it is compressing the image files,782
+1,haider.jafri,agent,Can you please updare if you are facing any issues with it.,781
+1,haider.jafri,agent,Gzip compression is enabled on the server by default.,780
+1,haider.jafri,agent,"Let me go through the document, please wait.",779
+1,haider.jafri,agent,HI,778
+1,william98,customer,<https://developers.google.com/speed/docs/insights/EnableCompression>,777
+1,william98,customer,please can this be done,776
+1,william98,customer,Good afternoon,775
+1,william98,customer,hello,774
+1,william98,customer,thanks,773
+1,customer-success,agent,<@william98>,772
+1,customer-success,agent,Your invoice has been successfully charged.,771
+1,william98,customer,thank you,770
+1,customer-success,agent,I'd really appreciate your patience in this regard,769
+1,customer-success,agent,I am forwarding your request to billing team and they will contact you asap.,768
+1,customer-success,agent,"Hi, this is Zubair here from Customer Success",767
+1,william98,customer,there is fund there,766
+1,william98,customer,i.e bill our card,765
+1,william98,customer,please can you tell the financial team to bill us for our server,764
+1,william98,customer,heloo,763
+1,customer-success,agent,services.php file is also created,762
+1,customer-success,agent,site is up again,761
+1,customer-success,agent,that is why error is there,760
+1,customer-success,agent,yes i can see from this end we also restarted the services,759
+1,william98,customer,this is the new error,758
+1,william98,customer,Error 503 Backend fetch failed  Backend fetch failed  Guru Meditation:,757
+1,william98,customer,i have fixed it,756
+1,william98,customer,thats all,755
+1,william98,customer,we need this php artisan config:cache to work,754
+1,william98,customer,if the cache file is in the bootstrap we will not get this error,753
+1,customer-success,agent,getting errors in error logs,752
+1,customer-success,agent,"[Wed Oct 04 12:24:27.565319 2017] [proxy_fcgi:error] [pid 15904] [client 127.0.0.1:60154] AH01071: Got error 'PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:749\nStack trace:\n#0 /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(749): ReflectionClass->__construct('view')\n#1 /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(644): Illuminate\\Container\\Container->build('view', Array)\n#2 /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(709): Illuminate\\Container\\Container->make('view', Array)\n#3 /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1203): Illuminate\\Foundation\\Application->make('view')\n#4 /mnt/data/home/104017.cloudwaysapps.com/wavgp...\nPHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:749\nStack trace:\n#0 /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(749): ReflectionClass->__construct('view')\n#1 /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(644): Illuminate\\Container\\Container->build('view', Array)\n#2 /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(709): Illuminate\\Container\\Container->make('view', Array)\n#3 /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1203): Illuminate\\Foundation\\Application->make('view')\n#4 /mnt/data/home/104017.cloudwaysapps.com/wavgp...\n'",751
+1,william98,customer,the site has been down for 5 minutes now,750
+1,customer-success,agent,"yes it is on 777, please wait let me check",749
+1,william98,customer,else it should create that folder,748
+1,william98,customer,is bootstrap 777,747
+1,william98,customer,i have done this serverally,746
+1,william98,customer,it should,745
+1,customer-success,agent,"yes, i do understand but it is not creating the cache folder and file even while running the command from the root user",744
+1,william98,customer,php artisan config:cache will create the cache folder in bootstrap,743
+1,william98,customer,?,742
+1,william98,customer,do you understand,741
+1,william98,customer,it will create it,740
+1,william98,customer,if you run   php artisan config:cache,739
+1,customer-success,agent,that is why you are getting this error,738
+1,customer-success,agent,in bootstrap,737
+1,customer-success,agent,there isn't any folder and file cache/services.php,736
+1,william98,customer,please,735
+1,william98,customer,you will see this error,734
+1,william98,customer,run php artisan config:cache,733
+1,william98,customer,run   [ErrorException]   file_put_contents(/mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/bootstrap/cache/se   rvices.php): failed to open stream: No such file or directory,732
+1,william98,customer,[ErrorException]   file_put_contents(/mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/bootstrap/cache/se   rvices.php): failed to open stream: No such file or directory,731
+1,customer-success,agent,"again reset the permissions, please check",730
+1,customer-success,agent,I just changed the permissions of public,729
+1,customer-success,agent,storage and bootstarp is already set with 0777,728
+1,william98,customer,my battery is almost dead,727
+1,william98,customer,please fix it,726
+1,william98,customer,<http://alexis.lindaikejisblog.com|alexis.lindaikejisblog.com>,725
+1,william98,customer,storage and bootstrap must be 0777,724
+1,william98,customer,error 500,723
+1,customer-success,agent,"I have reset the permission to 775, please try now to upload the images",722
+1,william98,customer,what is the permission there please,721
+1,william98,customer,because images are not being uploaded,720
+1,william98,customer,can you check the permissions for public_html/public,719
+1,william98,customer,hi,718
+1,customer-success,agent,"permission has been assigned, please check",717
+1,william98,customer,basically can you make storage/framework/sessions writable 0777,716
+1,william98,customer,for the admin users,715
+1,william98,customer,so file storage doesnt work,714
+1,customer-success,agent,sure,713
+1,william98,customer,okay i will move to file shortly in the night we will move to memcache so it doesn't disturb,712
+1,customer-success,agent,"as redis was in use but the performance was not stable, you can try the memecached as it is already installed on the server you just need to add the connector",711
+1,william98,customer,"The session configuration file is stored at config/session.php. Be sure to review the options available to you in this file. By default, Laravel is configured to use the file session driver, which will work well for many applications. In production applications, you may consider using the  memcached or redis drivers for even faster session performanc",710
+1,william98,customer,from laravel,709
+1,william98,customer,but i prefer using redis,708
+1,william98,customer,please verify,707
+1,william98,customer,storage/framework/sessions,706
+1,customer-success,agent,please share the session path where you have define because it requires to set the cron,705
+1,customer-success,agent,"yes, now the sessions seems to be moved on files",704
+1,william98,customer,please check if the session queries are on files,703
+1,customer-success,agent,same result,702
+1,william98,customer,php artisan cache:config,701
+1,customer-success,agent,cache:clear is working fine but it is not recognizing config:cache,700
+1,customer-success,agent,"getting these messages while running   [Symfony\Component\Console\Exception\CommandNotFoundException]     Command ""cache:config"" is not defined.                             Did you mean one of these?                                             cache:clear                                                        cache:table",699
+1,william98,customer,sorry php artisan cache:config,698
+1,william98,customer,?,697
+1,william98,customer,did you run the php artisan config:cache,696
+1,william98,customer,working now,695
+1,customer-success,agent,please check now,694
+1,customer-success,agent,yes working on it,693
+1,william98,customer,i am getting calls,692
+1,william98,customer,are you there?,691
+1,william98,customer,a new cache file will be generated,690
+1,william98,customer,i will execute php artisan cache:config,689
+1,william98,customer,so make bootstrap writable,688
+1,william98,customer,yes the bootstrap/cache file,687
+1,customer-success,agent,and file is trying to read bootstrap/cache,686
+1,customer-success,agent,in bootstrap the folder is having name cache1 not only cache,685
+1,customer-success,agent,let me check,684
+1,william98,customer,error 500,683
+1,customer-success,agent,"done, please check",682
+1,william98,customer,thanks,681
+1,william98,customer,chmod -R 0777 bootstrap/,680
+1,customer-success,agent,let me change it for you,679
+1,william98,customer,chmod: changing permissions of ‘bootstrap/cache1/services.php’: Operation not permitted,678
+1,william98,customer,i cant oops,677
+1,customer-success,agent,ok thank you,676
+1,william98,customer,dont worry let me change the permission,675
+1,customer-success,agent,one moment let me check,674
+1,customer-success,agent,sure we will do that,673
+1,william98,customer,why,672
+1,william98,customer,php artisan cache:config,671
+1,william98,customer,[ErrorException]   file_put_contents(/mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/bootstrap/cache/services.php): fai   led to open stream: No such file or directory,670
+1,william98,customer,in the morning,669
+1,william98,customer,is fine,668
+1,william98,customer,every 2 days,667
+1,customer-success,agent,let us know the time as per your ease we will set it,666
+1,william98,customer,the cron would happen run every ?,665
+1,customer-success,agent,"yes, because the session will take place on disk and then we will set cron to remove those sessions from the disk",664
+1,william98,customer,"okay, you sure?",663
+1,customer-success,agent,change sessions path from database to file system,662
+1,william98,customer,?,661
+1,william98,customer,what is the solution,660
+1,william98,customer,hmmm,659
+1,customer-success,agent,sessions are still on database as database is getting load and queries are still there,658
+1,william98,customer,i just changed it,657
+1,william98,customer,please check if the session has been moved to redis and not database,656
+1,william98,customer,interesting,655
+1,customer-success,agent,it is again the session queries despite the cron is set for 2 days,654
+1,customer-success,agent,"Hi, this is Abdul Rauf let me check",653
+1,william98,customer,what might be causing it,652
+1,william98,customer,the website is slow,651
+1,customer-success,agent,We have forwarded your request to the relevant team. They are contacting you via Email.,650
+1,customer-success,agent,"Hi, This is Asher from Customer Success. Please hold on let me check the possibilities of it.",649
+1,william98,customer,i am avaliable,648
+1,william98,customer,call email,647
+1,william98,customer,please can someone reach out to me,646
+1,william98,customer,please i want us to pay tomorrow,645
+1,william98,customer,please i am waiting for your financial team,644
+1,william98,customer,okay,643
+1,customer-success,agent,"Sorry for the bit delay in response, it was occurred because we restarted the services",642
+1,william98,customer,what would cause this,641
+1,william98,customer,Varnish cache server,640
+1,william98,customer,Error 503 Backend fetch failed  Backend fetch failed  Guru Meditation:  XID: 720920,639
+1,customer-success,agent,yes,638
+1,william98,customer,have you cleared the session,637
+1,william98,customer,make it in the morning,636
+1,william98,customer,okay,635
+1,customer-success,agent,if you allow us then we will set the cron frequency from week to 2 days,634
+1,customer-success,agent,"cron is set to weekly, we believe that we need to increase the cron frequency",633
+1,william98,customer,the cron didnt run,632
+1,william98,customer,wow!!!,631
+1,customer-success,agent,again your session queries creating load on the server we are clearing the sessions,630
+1,william98,customer,okay,629
+1,customer-success,agent,"working on sever, please wait",628
+1,william98,customer,about the server,627
+1,william98,customer,"yes, please immediately, so we can resolve this once and for all",626
+1,customer-success,agent,I am escalating your billing query to your account manager and you will be updated by him,625
+1,william98,customer,can the billing of the server while it was in the normal account be moved to the invoice of the new account,624
+1,william98,customer,the new server we transferred to the other account,623
+1,william98,customer,also please can i have the financial department here,622
+1,customer-success,agent,<@customer-success> uploaded a file: <https://cw-premium.slack.com/files/customer-success/F7CF2DU02/screenshot_from_2017-10-03_15-50-33.png|Screenshot from 2017-10-03 15-50-33.png>,621
+1,customer-success,agent,"we can access the site, checking the server please wait",620
+1,william98,customer,the website has been showing 502 error,619
+1,william98,customer,it is up now,618
+1,customer-success,agent,"Hi. THis is Abdul Rauf, let me check please",617
+1,william98,customer,?,616
+1,william98,customer,and the blog is down,615
+1,william98,customer,we are about to recharge our card and make payment for  <http://lindaikejisblog.com|lindaikejisblog.com>,614
+1,william98,customer,hello,613
+1,william98,customer,thanks,612
+1,cloudways.ahmed,agent,Here you go,611
+1,cloudways.ahmed,agent,<@cloudways.ahmed> uploaded a file: <https://cw-premium.slack.com/files/cloudways.ahmed/F7B9WM8UB/invoice157849.pdf|invoice157849.pdf>,610
+1,william98,customer,<mailto:william@fluturetech.com|william@fluturetech.com>,609
+1,william98,customer,thank you,608
+1,cloudways.ahmed,agent,"Okay, So I am sending you the invoice of last month in which the usage and billing is distinguished server wise.",607
+1,william98,customer,"i want to balance account,  i would want that today, as this the end of the month, we want to balance our sheets",606
+1,william98,customer,also for this coming month can the invoice be split for both account,605
+1,william98,customer,"is the split bill for last month, i want to see the charges on each server so i can balance my client that made payment for both servers last month",604
+1,william98,customer,now please what i need from the team,603
+1,cloudways.ahmed,agent,That's great,602
+1,william98,customer,thank you,601
+1,cloudways.ahmed,agent,hi <@william98>,600
+1,william98,customer,"i just did it now, it was successful",599
+1,william98,customer,hi Hassam,598
+1,hassam,agent,"<@william98> can you please try to transfer the server now manually trying to transfer the server can result in mishap so we are not going for it, we have the dev team onboard for it now in case any issue occurs.",597
+1,hassam,agent,"<@william98> Please do not worry, We will go through it in detail and make sure it gets resolved by today.",596
+1,william98,customer,!,595
+1,william98,customer,today,594
+1,william98,customer,on my behalf,593
+1,william98,customer,please do the transfer to the account,592
+1,william98,customer,"Hello William Nwogbo, The Transfer Server request that you created for your server with Uniquewill could not be completed due to unexpected error. You can start the transfer process again if you wish.",591
+1,U2WEFPJTF,agent,"ok, let me check",590
+1,william98,customer,i have tried it,589
+1,william98,customer,it failed,588
+1,william98,customer,okay,587
+1,U2WEFPJTF,agent,"<@william98> i had a discussion with our team and they had tried to replicate this by sharing the server to some of our accounts just for testing purpose and it was shared successfully, so could you please let us know, have you tried it again ?",586
+1,cloudways.ahmed,agent,Have you tried again <@william98>?,585
+1,william98,customer,i need this moved becos of another invoice,584
+1,U2WEFPJTF,agent,Hi <@william98> we will check this issue again and will get back to you accordingly.,583
+1,william98,customer,"with regards to this, i havent seen the server on the other account",582
+1,william98,customer,great great,581
+1,haider.jafri,agent,I have set the Cronjob to truncate sessions table on every Saturday night.,580
+1,william98,customer,every week,579
+1,william98,customer,great,578
+1,haider.jafri,agent,I am setting up the cronjob  too,577
+1,william98,customer,thanks,576
+1,haider.jafri,agent,I have truncated it,575
+1,william98,customer,please when its done inform me,574
+1,william98,customer,thank you,573
+1,haider.jafri,agent,That would be better if we keep clearing it.,572
+1,william98,customer,please do it now cos there is a breaking new,571
+1,william98,customer,great,570
+1,haider.jafri,agent,"Yes, I can set a cronjob for that",569
+1,william98,customer,more like every week,568
+1,haider.jafri,agent,"Ok, please wait",567
+1,william98,customer,can we truncate it once in a week,566
+1,william98,customer,yes the session table,565
+1,haider.jafri,agent,should I truncate it?,564
+1,william98,customer,table,563
+1,william98,customer,the session,562
+1,william98,customer,not the database,561
+1,william98,customer,can you clear the database,560
+1,haider.jafri,agent,"Ok, so are are you fixing it at your end?",559
+1,william98,customer,it is still database,558
+1,william98,customer,ohhh thats true you are right,557
+1,william98,customer,we changed it to redis,556
+1,haider.jafri,agent,Database.,555
+1,william98,customer,?,554
+1,william98,customer,db or redis,553
+1,haider.jafri,agent,There are high number of session queries,552
+1,haider.jafri,agent,"I am checking it, please wait",551
+1,william98,customer,what might be causing it,550
+1,william98,customer,it is saying site cannot be reached,549
+1,william98,customer,the website is not reachable,548
+1,haider.jafri,agent,"Hi, please wait, let me check that",547
+1,william98,customer,Hello please what is the load average\,546
+1,william98,customer,okay,545
+1,customer-success,agent,"Hi, Dear william Abdul Rauf, kindly try now to share your server as we have tried at our end and it has been shared, please check and from your end and do let us know the result",544
+1,customer-success,agent,Thanks a lot for your co-operation in this regards. We certainly understand your urgency in this matter and are trying our best to get this sorted ASAP,543
+1,william98,customer,sure,542
+1,william98,customer,okay,541
+1,customer-success,agent,"Hi <@william98>, this is S.Rafat from Cloudways Customer Success.  This is to inform you that your issue with the server transfer is being checked thoroughly by us . We will update you once we have got to know the root cause. We would certainly appreciate your co-operation in this regards",540
+1,customer-success,agent,We are checking the issue and will update you accordingly.,539
+1,william98,customer,it keeps on declining,538
+1,william98,customer,process it from your end,537
+1,william98,customer,this is becoming frustrating,536
+1,william98,customer,Just do the transfer for me,535
+1,william98,customer,this thing is not working,534
+1,cloudways.ahmed,agent,After that you must have received the confirmation email,533
+1,cloudways.ahmed,agent,so you have clicked on the transfer server and inserted the existing customer's email address their,532
+1,cloudways.ahmed,agent,Oh <@william98> Let me check,531
+1,william98,customer,this is painful,530
+1,william98,customer,"Hello William Nwogbo, The Transfer Server request that you created for your server with Uniquewill could not be completed due to unexpected error. You can start the transfer process again if you wish.",529
+1,customer-success,agent,We have sent server transfer request to <mailto:uniquewill9@gmail.com|uniquewill9@gmail.com> can you please accept it,528
+1,customer-success,agent,Please hold on let me check the issue,527
+1,customer-success,agent,"Ok I got the IP you are requiring to transfer from the Chat history ""35.194.206.123""",526
+1,customer-success,agent,Can you please confirm the server you are transferring from <mailto:williamnwogbo@gmail.com|williamnwogbo@gmail.com>,525
+1,customer-success,agent,"Sure, Please hold on we are looking into it.",524
+1,william98,customer,destination <mailto:uniquewill9@gmail.com|uniquewill9@gmail.com>,523
+1,william98,customer,<mailto:williamnwogbo@gmail.com|williamnwogbo@gmail.com> source,522
+1,customer-success,agent,Can you please let me know  the source and destination email ID's,521
+1,william98,customer,<mailto:uniquewill9@gmail.com|uniquewill9@gmail.com>,520
+1,customer-success,agent,Thanks a lot for the update. Can you please confirm the email ID from which you are transferring the server so that we can check it,519
+1,customer-success,agent,Hi there,518
+1,william98,customer,"clicked it, it keeps on failing",517
+1,U2WEFPJTF,agent,Could you please confirm it  on <mailto:uniquewill9@gmail.com|uniquewill9@gmail.com>,516
+1,U2WEFPJTF,agent,"ok, don't worry, let me check",515
+1,william98,customer,i didnt receive any request,514
+1,haider.jafri,agent,I have sent a new request.,513
+1,william98,customer,expired,512
+1,william98,customer,okay,511
+1,haider.jafri,agent,can you please try again?,510
+1,haider.jafri,agent,"Let me check it, please wait",509
+1,william98,customer,Oops! The Server transfer process was unsuccessful.,508
+1,william98,customer,didnt work,507
+1,william98,customer,it is failing,506
+1,haider.jafri,agent,Please check now.,505
+1,william98,customer,okay,504
+1,william98,customer,"Hello William Nwogbo, The Transfer Server request that you created for your server with Uniquewill could not be completed due to unexpected error. You can start the transfer process again if you wish",503
+1,haider.jafri,agent,"Ok, I am regenerating the request",502
+1,william98,customer,it says the link has expired,501
+1,william98,customer,clicked,500
+1,william98,customer,okay,499
+1,haider.jafri,agent,Can you please confirm it?,498
+1,haider.jafri,agent,YOu should have received an Email <mailto:onuniquewill9@gmail.com|onuniquewill9@gmail.com>,497
+1,william98,customer,35.194.206.123,496
+1,haider.jafri,agent,can you please confirm the IP address of the server you want to transfer?,495
+1,haider.jafri,agent,"Sure, please wait for a while I will update you shortly",494
+1,william98,customer,help me with this,493
+1,william98,customer,also can i see an invoice per server so i can pay the second client accordinly i am under pressure,492
+1,william98,customer,i didnt get any response from you,491
+1,william98,customer,please can the second server be transfer to the second account,490
+1,haider.jafri,agent,Hi,489
+1,william98,customer,Hi,488
+1,william98,customer,okay thanks,487
+1,cloudways.ahmed,agent,and also please contact the google web master tool to fetch the reason behind not being ranked.,486
+1,cloudways.ahmed,agent,"Well, for that you will need to opt the best keywords for your site and have to make sure that onpage SEO is well configured",485
+1,william98,customer,how do we improve our seo,484
+1,william98,customer,"since we moved to the new website, we dont get rankings on Google",483
+1,cloudways.ahmed,agent,Yes <@william98> Please ask,482
+1,william98,customer,i need help,481
+1,william98,customer,please i have a question,480
+1,william98,customer,<mailto:uniquewill9@gmail.com|uniquewill9@gmail.com>  and 35.194.206.123,479
+1,cloudways.ahmed,agent,"<@william98> Can you please share the server IP, desired email account, to which you want to transfer your server.",478
+1,cloudways.ahmed,agent,"Ok please hold, let me check the logs",477
+1,william98,customer,please do the transfer your self,476
+1,william98,customer,"TRANSFER SERVER FAILED   Hello William Nwogbo, The Transfer Server request that you created for your server with Uniquewill could not be completed due to unexpected error. You can start the transfer process again if you wish.  If you require guidance on how to transfer a server, please click here.",475
+1,cloudways.ahmed,agent,"Okay now please proceed further as mentioned in the KB, we believe that you will not face any issue",474
+1,william98,customer,i have upgraded the account,473
+1,cloudways.ahmed,agent,"Please confirm,   1- Have you upgraded the account ?  If yes, then please proceed with the server transfer process. Here is the KB:  <https://support.cloudways.com/how-to-transfer-server-to-another-account/>",472
+1,william98,customer,hi Ahmed,471
+1,cloudways.ahmed,agent,Hi <@william98>,470
+1,william98,customer,"Good Morning, i have done this, can the transfer of server be process now.",469
 1,U74TABC6Q,U74TABC6Q,<@U74TABC6Q> has joined the channel,468
-1,U2WEFPJTF,U2WEFPJTF,<@U2WEFPJTF> has joined the channel,467
-1,customer-success,customer-success,tls,466
-1,william98,william98,?,465
-1,william98,william98,tls or ssl,464
-1,customer-success,customer-success,Host = <http://smtp.elasticemail.com|smtp.elasticemail.com> User = eb8d105e-8533-4a96-8bcf-1f6d46be0963 Pass = eb8d105e-8533-4a96-8bcf-1f6d46be0963 Port = 2525,463
-1,william98,william98,i was told The latency issue in Asia's region as your server is in Taiwan.,462
-1,william98,william98,i was using sendgrid,461
-1,william98,william98,now,460
-1,william98,william98,i just enabled it,459
-1,william98,william98,yes,458
-1,customer-success,customer-success,Are you using Elastic email  on server having IP 35.194.206.123,457
-1,william98,william98,"for example, sendgrid= <http://smtp.sendgrid.net|smtp.sendgrid.net>",456
-1,william98,william98,"for your elastic email, what is the smtp server detail",455
-1,william98,william98,Hi Zubair,454
-1,customer-success,customer-success,"Hi, This is Zubair here from Customer Success",453
-1,william98,william98,since yesterday night,452
-1,william98,william98,they cannot change password,451
-1,william98,william98,the client is complaining that his users are not coming through due to emails,450
-1,william98,william98,what is happening,449
-1,william98,william98,hello the status has been on pending,448
-1,customer-success,customer-success,"You can contact their support to provide ETA for complete resolution. Meanwhile, you can use Elasticemail addon from our console. it is same as Sendgrid.  <https://support.cloudways.com/how-to-activate-elasticemail-addon/>",447
-1,william98,william98,my customer clients are complaining they are not getting emails,446
-1,william98,william98,what do i do to resolve this,445
-1,customer-success,customer-success,Because it <http://smtp.sendgrid.net|smtp.sendgrid.net> is connecting from another server location.,444
-1,customer-success,customer-success,Thanks for waiting. I believe the issue is coming from Sendgrid's end.  <http://status.sendgrid.com/>  The latency issue in Asia's region as your server is in Taiwan.,443
-1,customer-success,customer-success,let me check at my end.,442
-1,william98,william98,i dont think my application has access to the 567 port,441
-1,william98,william98,Connection could not be established with host <http://smtp.sendgrid.net|smtp.sendgrid.net> [Connection timed out #110],440
-1,william98,william98,35.194.206.123,439
-1,william98,william98,email not working,438
-1,william98,william98,<http://app.boonbuy.net|app.boonbuy.net>,437
-1,customer-success,customer-success,"Hi, This is Faizan Razi from Customer Success.",436
-1,william98,william98,hi guys,435
-1,cloudways.ahmed,cloudways.ahmed,Is there anything else I can help you with?,434
-1,cloudways.ahmed,cloudways.ahmed,"Sure, they will proceed accordingly.",433
-1,william98,william98,i can also be called,432
-1,william98,william98,thank you,431
-1,william98,william98,okay,430
-1,cloudways.ahmed,cloudways.ahmed,Our relevant team will update you on an email shortly.,429
-1,cloudways.ahmed,cloudways.ahmed,Sure william we are marking your account as safe right now so your servers won't get terminated,428
-1,william98,william98,i dont want my servers terminated,427
-1,cloudways.ahmed,cloudways.ahmed,I have asked relevant teams's member to address you on this. No need to worry about anything. We are here to serve you.,426
-1,cloudways.ahmed,cloudways.ahmed,Sure <@william98>,425
-1,william98,william98,some one should please explain this to me,424
-1,william98,william98,i didnt even get any email,423
-1,william98,william98,i dont understand,422
-1,william98,william98,8 days ago,421
-1,william98,william98,"Hi William Nwogbo,  A quick note to let you know that we have successfully charged the invoice listed below:  ----------------------------------------------------------------------------- Invoice Number: 157849 Amount: 2256.7900 USD -----------------------------------------------------------------------------  Feel free to get in touch with us via Live Chat for questions/comments.   We appreciate your business!   Thank you, Cloudways Team <http://www.cloudways.com|www.cloudways.com>   Every invoice you pay counts towards our cause. Read more on how we're supporting entrepreneurship beyond borders.",420
-1,william98,william98,here is my paid invoice,419
-1,william98,william98,"Hi William Nwogbo,  Recently, we sent you an email explaining the need to top up your funds to ensure your server(s) stay running.  We haven’t been able to add the necessary funds and you haven't uploaded them from your end.   The minimum funds amount that you need to upload to your account is: $884.06.  If the funds are not added in the next 48 hours, your server(s) will be first stopped and then deleted. Additionally, all your subscribed add-ons (if any) will be removed.   Remember that you can use our funds functionality to manually add credit to your account anytime. This will avoid the need to top up your funds and reduce the chances of unforeseen service disruption.  Feel free to get in touch with us via Live Chat for questions/comments.   Thank you, Cloudways Team <http://www.Cloudways.com|www.Cloudways.com>  CSR: Every invoice you pay counts towards our cause. Read more on how we're supporting entrepreneurship beyond borders.",418
-1,cloudways.ahmed,cloudways.ahmed,Can you please share the content of the email so that I can check at my end,417
-1,cloudways.ahmed,cloudways.ahmed,Hi <@william98>,416
-1,william98,william98,i got a theat that my account would be suspended,415
-1,william98,william98,I am unhappy,414
-1,william98,william98,okay,413
-1,customer-success,customer-success,"delete from `sessions` where `last_activity` insert into `sessions` (`payload`, `last_activity`, `user_id`, `ip_address`, `user_agent`, `id`) val",412
-1,william98,william98,which queries,411
-1,customer-success,customer-success,mysql queries was running,410
-1,william98,william98,beforee now,409
-1,william98,william98,way it higher?,408
-1,william98,william98,okay,407
-1,customer-success,customer-success,and its decreasing,406
-1,customer-success,customer-success,The average load is 15,405
-1,william98,william98,okay,404
-1,customer-success,customer-success,Please wait let me check,403
-1,customer-success,customer-success,"Hi, This is Zubair here from Customer Success",402
-1,william98,william98,please what is the cpu load,401
-1,william98,william98,hi,400
-1,customer-success,customer-success,<@william98> Please check now,399
-1,customer-success,customer-success,Sure we will update you soon we are working on the redirection issue,398
-1,william98,william98,i need to know when they can resume,397
-1,william98,william98,i told them to stop blogging,396
-1,william98,william98,hello,395
-1,william98,william98,do this for <http://www.lindaikejisblog.com>,394
-1,customer-success,customer-success,Yes we have found that there is already 302 redirection applied on your url <http://lindaikejisblog.com/>,393
-1,william98,william98,are you there?,392
-1,william98,william98,when u restart let me know,391
-1,customer-success,customer-success,sure <@william98>,390
-1,william98,william98,go ahead,389
-1,customer-success,customer-success,okay waiting,388
-1,william98,william98,wait,387
-1,william98,william98,sure go ahead,386
-1,customer-success,customer-success,within a minute,385
-1,william98,william98,and come back up,384
-1,william98,william98,how quick would that happen,383
-1,customer-success,customer-success,We need to restart the services like apache and varnish can we do that,382
-1,customer-success,customer-success,okay let me check,381
-1,william98,william98,<http://www.lindaikejisblog.com/>,380
-1,william98,william98,but this is not,379
-1,william98,william98,it is,378
-1,customer-success,customer-success,Please check <http://lindaikejisblog.com|lindaikejisblog.com> is redirecting to https,377
-1,customer-success,customer-success,sure please wait,376
-1,william98,william98,you can enforce https now,375
-1,william98,william98,so kindly check,374
-1,william98,william98,not i have enabled letencrypt before now,373
-1,customer-success,customer-success,Sure <@william98>,372
-1,william98,william98,wait,371
-1,customer-success,customer-success,Sure we are checking the possibilities and will update you soon.,370
-1,william98,william98,this first,369
-1,william98,william98,kindly notify me on the load on  the server,368
-1,customer-success,customer-success,"Hi, This is Zubair here from Customer Success",367
-1,william98,william98,also an update was made on the code,366
-1,william98,william98,thanks,365
-1,william98,william98,asap pls,364
-1,william98,william98,kindly force the URL to point to https for lindaikejisblog,363
-1,customer-success,customer-success,You will login to your newly created account. And go to the account section ( <http://prntscr.com/gistdk> ).  At there you will update the credit card details to upgrade your account to full. Once it is done we will transfer the server to this account,362
-1,customer-success,customer-success,Let me explain you.,361
-1,customer-success,customer-success,Please hold on I am cheking your account,360
-1,william98,william98,hello?,359
-1,william98,william98,do i have to create a server,358
-1,william98,william98,i cannot see console,357
-1,customer-success,customer-success,You can go to the console > account section > and update the card details there,356
-1,william98,william98,they have debited one of my clients,355
-1,william98,william98,how do i update my credit card details,354
-1,customer-success,customer-success,Hi there this is S.Rafat from Cloudways Customer success.,353
-1,william98,william98,i didnt see this,352
-1,william98,william98,hello,351
-1,customer-success,customer-success,Once you update the credit card details do let us know so we will further proceed the transfer process accordingly.,350
-1,william98,william98,thanks,349
-1,customer-success,customer-success,Kindly login and update the credit card details for the New server and after that we will transfer the server on this new account,348
-1,customer-success,customer-success,<https://platform.cloudways.com/login>,347
-1,customer-success,customer-success,email = <mailto:uniquewill9@gmail.com|uniquewill9@gmail.com> pass = p$7rK#\X4M,346
-1,customer-success,customer-success,and the details are mentioned below:,345
-1,customer-success,customer-success,Account has been created,344
-1,william98,william98,hello,343
-1,customer-success,customer-success,Hi <@william98>,342
-1,william98,william98,<mailto:uniquewill9@gmail.com|uniquewill9@gmail.com>,341
-1,william98,william98,okay,340
-1,customer-success,customer-success,<@william98> Please share the email address on which you need to create a new account for the New Server,339
-1,customer-success,customer-success,We'll call you shortly.,338
-1,william98,william98,?,337
-1,william98,william98,hello,336
-1,william98,william98,please do,335
-1,william98,william98,okay,334
-1,customer-success,customer-success,<@william98> We will call you within 15 to 20 min,333
-1,william98,william98,"the new server is suppose to be in a different account, i earlier mentioned this",332
-1,customer-success,customer-success,Please wait looking into it,331
-1,customer-success,customer-success,"Hi, This is Zubair here from Customer Success",330
-1,william98,william98,"please can you separate them already, the servers and their payment",329
-1,william98,william98,"what i was avoiding just happened, i saw your invoice",328
-1,william98,william98,hello,327
-1,william98,william98,awesome,326
-1,haider.jafri,haider.jafri,"It is stable, the load avg is 3",325
-1,william98,william98,how is the load now,324
-1,william98,william98,great news,323
-1,william98,william98,interesting,322
-1,william98,william98,wow!!!,321
-1,haider.jafri,haider.jafri,There are no more queries in MySQL and load is rapidly decreasing.,320
-1,william98,william98,i just made an option and disabled that,319
-1,haider.jafri,haider.jafri,"Currently this query is eating your resources: ""Sending select * from `comments` where `comments`.`parent_id` =""",318
-1,william98,william98,?,317
-1,william98,william98,so wait what is eating resources now,316
-1,haider.jafri,haider.jafri,Yes,315
-1,william98,william98,so right now the comments is taking lost of cpu resources,314
-1,william98,william98,i would optimise the code later this evening,313
-1,william98,william98,but it's been long,312
-1,haider.jafri,haider.jafri,Can you revert them?,311
-1,william98,william98,interesting,310
-1,william98,william98,yes,309
-1,haider.jafri,haider.jafri,Have you made any recent changes?,308
-1,haider.jafri,haider.jafri,"No these queries are exerting load ""select * from `comments` where `comments`.`parent_id` = 13190""",307
-1,william98,william98,great,306
-1,william98,william98,okay cool,305
-1,haider.jafri,haider.jafri,The server is stable now I have truncated the sessions table as well.,304
-1,haider.jafri,haider.jafri,Alexabot is not blocked by the server configurations.,303
-1,william98,william98,*allow,302
-1,william98,william98,alexa is suppose to be allo,301
-1,william98,william98,User-agent: Alexabot Disallow:,300
-1,william98,william98,"so what would happen after this surge, we would move to redis do a test and simulation tonight so as to reduce downtime like this",299
-1,william98,william98,please do,298
-1,william98,william98,okay,297
-1,haider.jafri,haider.jafri,I am trying to make it stable by tweaking PHP-FPM configuration.,296
-1,haider.jafri,haider.jafri,"Yes, it is due to load because due to MySQL queries PHP-FPM children proccesses are piling up.",295
-1,william98,william98,let me change to redis then we refresh,294
-1,william98,william98,?,293
-1,william98,william98,is it bacause of the load,292
-1,william98,william98,we are seriously getting cloudflare errors,291
-1,haider.jafri,haider.jafri,ok,290
-1,william98,william98,let us not do it now,289
-1,william98,william98,let us do it in the mid night,288
-1,haider.jafri,haider.jafri,"I am unable to execute to the truncation due to high number of operation in queue, can I temporarily stop the PHP-FPM service which will cause a downtime?",287
-1,william98,william98,when you do let me know,286
-1,william98,william98,thank you,285
-1,haider.jafri,haider.jafri,Sure,284
-1,william98,william98,can you truncate the session table for me,283
-1,haider.jafri,haider.jafri,"It seems that there a is a very high number of entries in session table due to which it is taking vary long to complete these queries, furthermore, I will suggest you to run this query more frequently in future if it is possible so these sessions table never fills up that much.",282
-1,william98,william98,you know what,281
-1,william98,william98,hmm it is in the core of laravel,280
-1,haider.jafri,haider.jafri,"Yes, I am referring to that query ""delete from `sessions` where `last_activity` <= ?""",279
-1,william98,william98,i.e for the session @laravel right,278
-1,haider.jafri,haider.jafri,"How this delete query is being executed, can you stop it?",277
-1,haider.jafri,haider.jafri,I am getting this page,276
-1,haider.jafri,haider.jafri,<@haider.jafri> uploaded a file: <https://cw-premium.slack.com/files/haider.jafri/F6T5GMPFB/2017-08-25_16h36_02.png|2017-08-25_16h36_02.png>,275
-1,william98,william98,<http://www.lindaikejisblog.com/2017/8/couple-on-their-way-to-abuja-escape-unharmed-from-ghastly-motor-accident.html>,274
-1,william98,william98,Error 503 Backend fetch failed  Backend fetch failed,273
-1,william98,william98,you advise i change it from database,272
-1,haider.jafri,haider.jafri,"Why are your storing your sessions in database, can you change it to file?",271
-1,william98,william98,but i am getting error,270
-1,haider.jafri,haider.jafri,Redis is receiving requests,269
-1,william98,william98,let us monitor,268
-1,william98,william98,kindly check cache are using redis now,267
-1,haider.jafri,haider.jafri,Ok,266
-1,william98,william98,"okay, i just changes it to redis",265
-1,haider.jafri,haider.jafri,Many of these queries are running for more than 240 seconds.,264
-1,haider.jafri,haider.jafri,This query is running in a large number : `delete from `sessions` where `last_activity` <= ?`,263
-1,william98,william98,but i changed the driver to database,262
-1,haider.jafri,haider.jafri,They are some session related queries.,261
-1,haider.jafri,haider.jafri,MySQL queries are exerting load on the server.,260
-1,haider.jafri,haider.jafri,Currenlt load is 45,259
-1,william98,william98,what is the current load and is any process eating server resources,258
-1,haider.jafri,haider.jafri,"The application is accessible, I am checking the serve as well.",257
-1,william98,william98,we are getting a cloudflare error,256
-1,william98,william98,is there load on the server,255
-1,william98,william98,test,254
-1,haider.jafri,haider.jafri,Can you please confirm the application please?,253
-1,haider.jafri,haider.jafri,Sure,252
-1,william98,william98,can you add alexa bot to the robot.txt file please,251
-1,haider.jafri,haider.jafri,Can you share the response you are getting from the API server?,250
-1,william98,william98,i have a function that executes this,249
-1,haider.jafri,haider.jafri,Can you also share that how your are posting data to API server?,248
-1,haider.jafri,haider.jafri,"The code seems correct, are you have any issues in executing it?",247
-1,william98,william98,okay,246
-1,U2W7MUB97,U2W7MUB97,"Ok, please wait let me double check it.",245
-1,william98,william98,for purging,244
-1,william98,william98,"$api_key = 'MovFcE7QLj735fqVwEWc0yYmnD7E5g';         $email = '<mailto:williamnwogbo@gmail.com|williamnwogbo@gmail.com>';         $cw_api = new \CloudwaysAPIClient($api_key, $email);         $servers = $cw_api->get_servers();         foreach($servers as $server) {             if($server->id == ""104017"") {                 $cw_api->service_varnish($server->id, 'purge');             }\",243
-1,U2W7MUB97,U2W7MUB97,"Which code you are referring here? Sure, please share here.",242
-1,william98,william98,?,241
-1,william98,william98,can i share code here,240
-1,U2W7MUB97,U2W7MUB97,It should reflect on same time.,239
-1,william98,william98,"when i purge vanish, how long does it take to reflex",238
-1,U2W7MUB97,U2W7MUB97,Are you asking for cache time or purge option of varnish?,237
-1,U2W7MUB97,U2W7MUB97,Hello <@william98>,236
-1,william98,william98,how long does it take for the vanish cache to clear,235
-1,william98,william98,hello,234
-1,customer-success,customer-success,"Further, as far as invoice is concerned you will soon receive an email from our billing team.",233
-1,customer-success,customer-success,<https://support.cloudways.com/how-to-transfer-server-to-another-account/>,232
-1,customer-success,customer-success,For transfer please follow below KB:,231
-1,customer-success,customer-success,Kindly transfer your server from current account to another for separate billing,230
-1,customer-success,customer-success,Hi <@william98>,229
-1,william98,william98,thanks,228
-1,customer-success,customer-success,Thanks for providing detail.,227
-1,william98,william98,boonbuy,226
-1,william98,william98,New Server,225
-1,customer-success,customer-success,<@william98> Please share which server you want to transfer on other account and which one you will keep in your current one?,224
-1,william98,william98,okay great,223
-1,customer-success,customer-success,"Okay, I am sending your request to billing team and they will contact you in this matter.",222
-1,william98,william98,?,221
-1,william98,william98,so i can put the client card there,220
-1,william98,william98,without interruption,219
-1,william98,william98,can the second server be moved to another account,218
-1,william98,william98,how do we do this now,217
-1,william98,william98,SHIT!!!!,216
-1,customer-success,customer-success,"I'd like to inform you here, invoice generates per account not per server",215
-1,william98,william98,i taught there was a way to generate invoice per server,214
-1,william98,william98,how do we resolve this,213
-1,william98,william98,i wouldnt want that client to pay for a server she is not using,212
-1,william98,william98,"right now, it is one client card that is connected to this account",211
-1,william98,william98,so the clients are suppose to pay seperately,210
-1,customer-success,customer-success,You will get one invoice and you can see cutoff charges of each server,209
-1,william98,william98,and they are two different client,208
-1,william98,william98,so i need the invoice for server 1 to be different from server 2,207
-1,william98,william98,hello,206
-1,customer-success,customer-success,yes,205
-1,william98,william98,the ip address of the server,204
-1,customer-success,customer-success,Please share the IP address,203
-1,william98,william98,a record,202
-1,william98,william98,so i linked the domain to the ipaddress,201
-1,customer-success,customer-success,Please let us know on which application you have defined this domain,200
-1,customer-success,customer-success,"Further, we didn't find domain name admin in Cloudways console. <http://prntscr.com/gc9fnf>",199
-1,william98,william98,great,198
-1,customer-success,customer-success,"108.162.219.86 - - [23/Aug/2017:21:55:33 +0000] ""GET / HTTP/1.0"" 200 39082 ""-"" ""Mozilla/5.0 (compatible; Alexabot/1.0; +<http://www.alexa.com/help/certifyscan;>)'""",197
-1,customer-success,customer-success,The requested bot is configured now,196
-1,customer-success,customer-success,Please hold on,195
-1,william98,william98,"i dont want vanish on this domain ""<http://admin.lindaikejisblog.com|admin.lindaikejisblog.com>""",194
-1,william98,william98,hello?,193
-1,william98,william98,<http://admin.lindaikejisblog.com|admin.lindaikejisblog.com>,192
-1,william98,william98,is vanish working on this domain,191
-1,william98,william98,also i have <http://admin.lindaikejisblog.com|admin.lindaikejisblog.com>,190
-1,william98,william98,"basically can you add the top search engines to robot.txt, so they can index the website",189
-1,william98,william98,great,188
-1,william98,william98,okay,187
-1,customer-success,customer-success,Sure. Please wait,186
-1,customer-success,customer-success,"Hi, This is Zubair here from Customer Success",185
-1,william98,william98,to my robot.txt file,184
-1,william98,william98,can you add alexabot,183
-1,william98,william98,hello,182
-1,hassam,hassam,glad to know.,181
-1,william98,william98,:+1:,180
-1,william98,william98,it works now,179
-1,hassam,hassam,let me take a look and get back to you,178
-1,william98,william98,what is causing the error,177
-1,hassam,hassam,"yes, xml is supported on the server.",176
-1,hassam,hassam,Hi,175
-1,william98,william98,hello?,174
-1,william98,william98,<http://lindaikejisblog.com/sitemap.xml>,173
-1,william98,william98,is xml supported by the server,172
-1,william98,william98,it worked,171
-1,william98,william98,thanks,170
-1,haider.jafri,haider.jafri,Can you try purging the cache from CloudFlare?,169
-1,haider.jafri,haider.jafri,I believe that is some issue due to the CDN. As it is showing to me but not working from a US location.,168
-1,haider.jafri,haider.jafri,"Ok, I double checking it.",167
-1,william98,william98,it is not showing it,166
-1,william98,william98,i used mozilla,165
-1,william98,william98,same thing,164
-1,william98,william98,okay,163
-1,haider.jafri,haider.jafri,"because I am seeing that it is allowed even the bot is crawling on your site, kindly check the 2nd screenshot I have shared. It is from your acceess logs.",162
-1,haider.jafri,haider.jafri,"I believe your are viewing a cache version, can you check in a fresh browser?",161
-1,william98,william98,<@william98> uploaded a file: <https://cw-premium.slack.com/files/william98/F6QNLGVFF/link.jpg|link.JPG>,160
-1,haider.jafri,haider.jafri,<@haider.jafri> uploaded a file: <https://cw-premium.slack.com/files/haider.jafri/F6PUTQUGG/2017-08-18_21h04_40.png|2017-08-18_21h04_40.png>,159
-1,haider.jafri,haider.jafri,TwitterBot is crawling on your applciation,158
-1,haider.jafri,haider.jafri,It is displaying in your robot.txt,157
-1,haider.jafri,haider.jafri,<@haider.jafri> uploaded a file: <https://cw-premium.slack.com/files/haider.jafri/F6QGAMKUK/2017-08-18_21h02_13.png|2017-08-18_21h02_13.png>,156
-1,william98,william98,and twitter cannot preview our page,155
-1,william98,william98,<http://www.lindaikejisblog.com/robots.txt>,154
-1,william98,william98,but it is not displaying on that url,153
-1,haider.jafri,haider.jafri,"Yes, the rule you have added in robot.txt seems correct",152
-1,william98,william98,<http://www.lindaikejisblog.com/robots.txt>,151
-1,william98,william98,can you add it,150
-1,william98,william98,yes,149
-1,haider.jafri,haider.jafri,"You want to allow twitter bot through robot.txt, right?",148
-1,william98,william98,so it should show,147
-1,william98,william98,i have removed the bots,146
-1,william98,william98,i need the robots.txt to show twitterbot,145
-1,william98,william98,wait,144
-1,haider.jafri,haider.jafri,Can you provide the .htaccess you have in your Git?,143
-1,haider.jafri,haider.jafri,May be I have changed the order.,142
-1,haider.jafri,haider.jafri,yes,141
-1,william98,william98,the .htaccess in the public,140
-1,william98,william98,which of them did you edit,139
-1,william98,william98,okay wait,138
-1,william98,william98,merge conflict,137
-1,haider.jafri,haider.jafri,I am done now,136
-1,william98,william98,tell me when you are done,135
-1,haider.jafri,haider.jafri,Sure,134
-1,william98,william98,i want to use git to update it,133
-1,william98,william98,kindly add it back,132
-1,haider.jafri,haider.jafri,I have already removed it,131
-1,william98,william98,ohh let me remove it,130
-1,haider.jafri,haider.jafri,"I found that you have blocked TwitterBot from .htaccess file, I have removed the restriction for TwitterBot.",129
-1,william98,william98,i added twitterbot,128
-1,william98,william98,but check <http://www.lindaikejisblog.com/robots.txt>,127
-1,william98,william98,okay thanks,126
-1,haider.jafri,haider.jafri,I have unblocked all the bots which were previously blocked through Nginx. I am further investigating and will update you shortly.,125
-1,william98,william98,hello?,124
-1,william98,william98,ssh and check it,123
-1,william98,william98,but it is not showing,122
-1,william98,william98,i added User-agent: Twitterbot Allow: /,121
-1,william98,william98,<http://www.lindaikejisblog.com/robots.txt>,120
-1,william98,william98,my robots.txt file,119
-1,william98,william98,no,118
-1,william98,william98,okay,117
-1,haider.jafri,haider.jafri,"Can you please check now, if the bot is still being blocked?",116
-1,william98,william98,hello,115
-1,haider.jafri,haider.jafri,"Ok, I am checking it. Please wait.",114
-1,william98,william98,we disabled some bots earlier on when we launched the website,113
-1,haider.jafri,haider.jafri,"It should be already enabled, are you having any issues with it?",112
-1,william98,william98,so it can crawl the website,111
-1,william98,william98,twitter bot,110
-1,haider.jafri,haider.jafri,Hi,109
-1,william98,william98,guys can you enabled,108
-1,william98,william98,hi,107
-1,cloudways.ahmed,cloudways.ahmed,or you will do it on your own,106
-1,cloudways.ahmed,cloudways.ahmed,Should I set it to run every 5 minute,105
-1,william98,william98,okay do that,104
-1,william98,william98,ohh i see,103
-1,cloudways.ahmed,cloudways.ahmed,"is there any option to set it to run every 5 minute, other wise the cron processes will be pilling up.",102
-1,cloudways.ahmed,cloudways.ahmed,and have just killed the artisan processes which were stuck since 12th August 2017,101
-1,cloudways.ahmed,cloudways.ahmed,Seems like it is also helping quite effectively in increasing the server load,100
-1,william98,william98,i am currently running something on the server,99
-1,william98,william98,yes,98
-1,cloudways.ahmed,cloudways.ahmed,<@william98> Seems you have set the artisian cron to run every minute,97
-1,cloudways.ahmed,cloudways.ahmed,"Ok I would like you to do not make any change now, we are monitoring some other parameters",96
-1,william98,william98,except we simulate the traffic,95
-1,william98,william98,we cannot test,94
-1,cloudways.ahmed,cloudways.ahmed,But we suggest our customers to first test any sort of change on the staging before pushing on the live one,93
-1,cloudways.ahmed,cloudways.ahmed,Sure <@william98> We will help you out,92
-1,william98,william98,if issues arises and i cannot work help me change it to database,91
-1,william98,william98,i would change to redis,90
-1,william98,william98,i need you to promise me something,89
-1,william98,william98,okay,88
-1,cloudways.ahmed,cloudways.ahmed,"This is what I am saying, with Redis we hope that the issue won't occur but still requires bit of testing. Without any such environment, I can not concrete my words. Let see",87
-1,william98,william98,before doing that,86
-1,william98,william98,i want to know,85
-1,william98,william98,not yet,84
-1,cloudways.ahmed,cloudways.ahmed,Have you set the redis as the session handler?,83
-1,william98,william98,with redis?,82
-1,cloudways.ahmed,cloudways.ahmed,"It depends <@william98> As per current setup, the query should not take much time but issue occurs because of the excessive number of queries.",81
-1,william98,william98,?,80
-1,william98,william98,does it eat cpu resources,79
-1,william98,william98,can redis crash,78
-1,cloudways.ahmed,cloudways.ahmed,you may use the following command to monitor the redis  redis-cli monitor,77
-1,cloudways.ahmed,cloudways.ahmed,Ok then try Redis for the sessions,76
-1,william98,william98,no prefix,75
-1,cloudways.ahmed,cloudways.ahmed,Sure,74
-1,william98,william98,let me google,73
-1,william98,william98,laravel does that,72
-1,cloudways.ahmed,cloudways.ahmed,Is there any special string or prefix for the sessions?,71
-1,william98,william98,right?,70
-1,william98,william98,so would redis be a good solution,69
-1,william98,william98,and we cannot tell which session belongs to an admin,68
-1,william98,william98,and they were complaining so much,67
-1,william98,william98,"the problem with that is, it disconnects the admin users",66
-1,cloudways.ahmed,cloudways.ahmed,without imposing load on the server,65
-1,cloudways.ahmed,cloudways.ahmed,"Well setting up as Files will not slow down, because we have applied the cron job which  will be deleting the old sessions",64
-1,william98,william98,interesting,63
-1,cloudways.ahmed,cloudways.ahmed,<@cloudways.ahmed> uploaded a file: <https://cw-premium.slack.com/files/cloudways.ahmed/F6PAPHVD1/2017-08-16_20h19_29.png|2017-08-16_20h19_29.png>,62
-1,william98,william98,i dont want to use files,61
-1,william98,william98,if we change it to redis would it be preferred,60
-1,cloudways.ahmed,cloudways.ahmed,Let me show the screenshot,59
-1,cloudways.ahmed,cloudways.ahmed,Yes,58
-1,william98,william98,?,57
-1,william98,william98,that is what is eating resources right,56
-1,cloudways.ahmed,cloudways.ahmed,Execut updating delete from `sessions` where `last_activity` <= ?,55
-1,cloudways.ahmed,cloudways.ahmed,the following query is running multiple time which I believe is killing the orphaned sessions,54
-1,william98,william98,files was slowing down the server,53
-1,william98,william98,i have,52
-1,cloudways.ahmed,cloudways.ahmed,instead of FILES,51
-1,cloudways.ahmed,cloudways.ahmed,<@william98> Seems like you have set the database as the session storage,50
-1,cloudways.ahmed,cloudways.ahmed,ok please hold. Let me check,49
-1,william98,william98,and also what currently is eating cpu resources,48
-1,william98,william98,people what is the load average,47
-1,william98,william98,great,46
-1,cloudways.ahmed,cloudways.ahmed,"Sure, we are here to serve you in any way we can. Do not need to worry about any thing",45
-1,william98,william98,i am updating the code so i would need you guys,44
-1,william98,william98,i repushed,43
-1,william98,william98,i have created the file,42
-1,william98,william98,ohh okay,41
-1,cloudways.ahmed,cloudways.ahmed,And I believe it's not a correct one,40
-1,cloudways.ahmed,cloudways.ahmed,<@william98> Your script is looking for the file on the following path:  /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/composer/../../app/cloudway.php,39
-1,william98,william98,kindly run composer update,38
-1,cloudways.ahmed,cloudways.ahmed,"I think the path of the application which you have specified is not correct, let me check",37
-1,william98,william98,/mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/ in /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/composer/autoload_real.php on line 66,36
-1,william98,william98,so here is what i get on console,35
-1,cloudways.ahmed,cloudways.ahmed,"sure you can test it on your server. Let me know, if you face any issue",34
-1,william98,william98,i want to test it now,33
-1,cloudways.ahmed,cloudways.ahmed,You can also get the server ID by running the following command on the shell    hostname | awk -F. '{print $1}',32
-1,cloudways.ahmed,cloudways.ahmed,Server ID = 104017,31
-1,william98,william98,thanks,30
-1,cloudways.ahmed,cloudways.ahmed,Ok please wait. Let me share,29
-1,william98,william98,how do i get the server id,28
-1,U3QH1LMSN,U3QH1LMSN,Please let us know if you face any issues in it. We would be glad to assist you,27
-1,U3QH1LMSN,U3QH1LMSN,<https://www.cloudways.com/blog/automatically-purging-varnish-cache-using-cloudways-api/>,26
-1,U3QH1LMSN,U3QH1LMSN,You can also do this from Cloudways API,25
-1,U3QH1LMSN,U3QH1LMSN,Have you tried clearing from Cloudways console?,24
-1,william98,william98,how do i clear it via code,23
-1,william98,william98,so that the update can reflex,22
-1,william98,william98,i need to clear vanish,21
-1,U3QH1LMSN,U3QH1LMSN,Ok please go on,20
-1,william98,william98,when the admin edits a post,19
-1,william98,william98,so right now,18
-1,william98,william98,i need your help,17
-1,U3QH1LMSN,U3QH1LMSN,Ok thanks for the info,16
-1,william98,william98,okayd,15
-1,william98,william98,it was,14
-1,william98,william98,yes,13
-1,customer-success,customer-success,<@customer-success> uploaded a file: <https://cw-premium.slack.com/files/customer-success/F6P1YKGF5/william.alert.png|william.alert.png>,12
-1,customer-success,customer-success,We have just now received an alert on our monitoring system regarding your site . It seems that you are working on the site as it is showing up a maintenance page.,11
-1,customer-success,customer-success,Hi William this is S.Rafat,10
-1,customer-success,customer-success,Pleasure,9
-1,william98,william98,okay thanks,8
-1,customer-success,customer-success,Thanks a lot for your patience. I have checked your server and the uptime indicated on it is 31 days more over I cannot see any traces of any core process to get down.,7
-1,william98,william98,"i wanted to apology for thurday friday, i was tensed",6
-1,william98,william98,okay thanks,5
-1,customer-success,customer-success,Let me check your server to get known regarding the issue,4
-1,william98,william98,great,3
-1,customer-success,customer-success,"Hi there , this is S.Rafat From Cloudways Customer Success.",2
-1,william98,william98,what happenend ?,1
+1,U2WEFPJTF,agent,<@U2WEFPJTF> has joined the channel,467
+1,customer-success,agent,tls,466
+1,william98,customer,?,465
+1,william98,customer,tls or ssl,464
+1,customer-success,agent,Host = <http://smtp.elasticemail.com|smtp.elasticemail.com> User = eb8d105e-8533-4a96-8bcf-1f6d46be0963 Pass = eb8d105e-8533-4a96-8bcf-1f6d46be0963 Port = 2525,463
+1,william98,customer,i was told The latency issue in Asia's region as your server is in Taiwan.,462
+1,william98,customer,i was using sendgrid,461
+1,william98,customer,now,460
+1,william98,customer,i just enabled it,459
+1,william98,customer,yes,458
+1,customer-success,agent,Are you using Elastic email  on server having IP 35.194.206.123,457
+1,william98,customer,"for example, sendgrid= <http://smtp.sendgrid.net|smtp.sendgrid.net>",456
+1,william98,customer,"for your elastic email, what is the smtp server detail",455
+1,william98,customer,Hi Zubair,454
+1,customer-success,agent,"Hi, This is Zubair here from Customer Success",453
+1,william98,customer,since yesterday night,452
+1,william98,customer,they cannot change password,451
+1,william98,customer,the client is complaining that his users are not coming through due to emails,450
+1,william98,customer,what is happening,449
+1,william98,customer,hello the status has been on pending,448
+1,customer-success,agent,"You can contact their support to provide ETA for complete resolution. Meanwhile, you can use Elasticemail addon from our console. it is same as Sendgrid.  <https://support.cloudways.com/how-to-activate-elasticemail-addon/>",447
+1,william98,customer,my customer clients are complaining they are not getting emails,446
+1,william98,customer,what do i do to resolve this,445
+1,customer-success,agent,Because it <http://smtp.sendgrid.net|smtp.sendgrid.net> is connecting from another server location.,444
+1,customer-success,agent,Thanks for waiting. I believe the issue is coming from Sendgrid's end.  <http://status.sendgrid.com/>  The latency issue in Asia's region as your server is in Taiwan.,443
+1,customer-success,agent,let me check at my end.,442
+1,william98,customer,i dont think my application has access to the 567 port,441
+1,william98,customer,Connection could not be established with host <http://smtp.sendgrid.net|smtp.sendgrid.net> [Connection timed out #110],440
+1,william98,customer,35.194.206.123,439
+1,william98,customer,email not working,438
+1,william98,customer,<http://app.boonbuy.net|app.boonbuy.net>,437
+1,customer-success,agent,"Hi, This is Faizan Razi from Customer Success.",436
+1,william98,customer,hi guys,435
+1,cloudways.ahmed,agent,Is there anything else I can help you with?,434
+1,cloudways.ahmed,agent,"Sure, they will proceed accordingly.",433
+1,william98,customer,i can also be called,432
+1,william98,customer,thank you,431
+1,william98,customer,okay,430
+1,cloudways.ahmed,agent,Our relevant team will update you on an email shortly.,429
+1,cloudways.ahmed,agent,Sure william we are marking your account as safe right now so your servers won't get terminated,428
+1,william98,customer,i dont want my servers terminated,427
+1,cloudways.ahmed,agent,I have asked relevant teams's member to address you on this. No need to worry about anything. We are here to serve you.,426
+1,cloudways.ahmed,agent,Sure <@william98>,425
+1,william98,customer,some one should please explain this to me,424
+1,william98,customer,i didnt even get any email,423
+1,william98,customer,i dont understand,422
+1,william98,customer,8 days ago,421
+1,william98,customer,"Hi William Nwogbo,  A quick note to let you know that we have successfully charged the invoice listed below:  ----------------------------------------------------------------------------- Invoice Number: 157849 Amount: 2256.7900 USD -----------------------------------------------------------------------------  Feel free to get in touch with us via Live Chat for questions/comments.   We appreciate your business!   Thank you, Cloudways Team <http://www.cloudways.com|www.cloudways.com>   Every invoice you pay counts towards our cause. Read more on how we're supporting entrepreneurship beyond borders.",420
+1,william98,customer,here is my paid invoice,419
+1,william98,customer,"Hi William Nwogbo,  Recently, we sent you an email explaining the need to top up your funds to ensure your server(s) stay running.  We haven’t been able to add the necessary funds and you haven't uploaded them from your end.   The minimum funds amount that you need to upload to your account is: $884.06.  If the funds are not added in the next 48 hours, your server(s) will be first stopped and then deleted. Additionally, all your subscribed add-ons (if any) will be removed.   Remember that you can use our funds functionality to manually add credit to your account anytime. This will avoid the need to top up your funds and reduce the chances of unforeseen service disruption.  Feel free to get in touch with us via Live Chat for questions/comments.   Thank you, Cloudways Team <http://www.Cloudways.com|www.Cloudways.com>  CSR: Every invoice you pay counts towards our cause. Read more on how we're supporting entrepreneurship beyond borders.",418
+1,cloudways.ahmed,agent,Can you please share the content of the email so that I can check at my end,417
+1,cloudways.ahmed,agent,Hi <@william98>,416
+1,william98,customer,i got a theat that my account would be suspended,415
+1,william98,customer,I am unhappy,414
+1,william98,customer,okay,413
+1,customer-success,agent,"delete from `sessions` where `last_activity` insert into `sessions` (`payload`, `last_activity`, `user_id`, `ip_address`, `user_agent`, `id`) val",412
+1,william98,customer,which queries,411
+1,customer-success,agent,mysql queries was running,410
+1,william98,customer,beforee now,409
+1,william98,customer,way it higher?,408
+1,william98,customer,okay,407
+1,customer-success,agent,and its decreasing,406
+1,customer-success,agent,The average load is 15,405
+1,william98,customer,okay,404
+1,customer-success,agent,Please wait let me check,403
+1,customer-success,agent,"Hi, This is Zubair here from Customer Success",402
+1,william98,customer,please what is the cpu load,401
+1,william98,customer,hi,400
+1,customer-success,agent,<@william98> Please check now,399
+1,customer-success,agent,Sure we will update you soon we are working on the redirection issue,398
+1,william98,customer,i need to know when they can resume,397
+1,william98,customer,i told them to stop blogging,396
+1,william98,customer,hello,395
+1,william98,customer,do this for <http://www.lindaikejisblog.com>,394
+1,customer-success,agent,Yes we have found that there is already 302 redirection applied on your url <http://lindaikejisblog.com/>,393
+1,william98,customer,are you there?,392
+1,william98,customer,when u restart let me know,391
+1,customer-success,agent,sure <@william98>,390
+1,william98,customer,go ahead,389
+1,customer-success,agent,okay waiting,388
+1,william98,customer,wait,387
+1,william98,customer,sure go ahead,386
+1,customer-success,agent,within a minute,385
+1,william98,customer,and come back up,384
+1,william98,customer,how quick would that happen,383
+1,customer-success,agent,We need to restart the services like apache and varnish can we do that,382
+1,customer-success,agent,okay let me check,381
+1,william98,customer,<http://www.lindaikejisblog.com/>,380
+1,william98,customer,but this is not,379
+1,william98,customer,it is,378
+1,customer-success,agent,Please check <http://lindaikejisblog.com|lindaikejisblog.com> is redirecting to https,377
+1,customer-success,agent,sure please wait,376
+1,william98,customer,you can enforce https now,375
+1,william98,customer,so kindly check,374
+1,william98,customer,not i have enabled letencrypt before now,373
+1,customer-success,agent,Sure <@william98>,372
+1,william98,customer,wait,371
+1,customer-success,agent,Sure we are checking the possibilities and will update you soon.,370
+1,william98,customer,this first,369
+1,william98,customer,kindly notify me on the load on  the server,368
+1,customer-success,agent,"Hi, This is Zubair here from Customer Success",367
+1,william98,customer,also an update was made on the code,366
+1,william98,customer,thanks,365
+1,william98,customer,asap pls,364
+1,william98,customer,kindly force the URL to point to https for lindaikejisblog,363
+1,customer-success,agent,You will login to your newly created account. And go to the account section ( <http://prntscr.com/gistdk> ).  At there you will update the credit card details to upgrade your account to full. Once it is done we will transfer the server to this account,362
+1,customer-success,agent,Let me explain you.,361
+1,customer-success,agent,Please hold on I am cheking your account,360
+1,william98,customer,hello?,359
+1,william98,customer,do i have to create a server,358
+1,william98,customer,i cannot see console,357
+1,customer-success,agent,You can go to the console > account section > and update the card details there,356
+1,william98,customer,they have debited one of my clients,355
+1,william98,customer,how do i update my credit card details,354
+1,customer-success,agent,Hi there this is S.Rafat from Cloudways Customer success.,353
+1,william98,customer,i didnt see this,352
+1,william98,customer,hello,351
+1,customer-success,agent,Once you update the credit card details do let us know so we will further proceed the transfer process accordingly.,350
+1,william98,customer,thanks,349
+1,customer-success,agent,Kindly login and update the credit card details for the New server and after that we will transfer the server on this new account,348
+1,customer-success,agent,<https://platform.cloudways.com/login>,347
+1,customer-success,agent,email = <mailto:uniquewill9@gmail.com|uniquewill9@gmail.com> pass = p$7rK#\X4M,346
+1,customer-success,agent,and the details are mentioned below:,345
+1,customer-success,agent,Account has been created,344
+1,william98,customer,hello,343
+1,customer-success,agent,Hi <@william98>,342
+1,william98,customer,<mailto:uniquewill9@gmail.com|uniquewill9@gmail.com>,341
+1,william98,customer,okay,340
+1,customer-success,agent,<@william98> Please share the email address on which you need to create a new account for the New Server,339
+1,customer-success,agent,We'll call you shortly.,338
+1,william98,customer,?,337
+1,william98,customer,hello,336
+1,william98,customer,please do,335
+1,william98,customer,okay,334
+1,customer-success,agent,<@william98> We will call you within 15 to 20 min,333
+1,william98,customer,"the new server is suppose to be in a different account, i earlier mentioned this",332
+1,customer-success,agent,Please wait looking into it,331
+1,customer-success,agent,"Hi, This is Zubair here from Customer Success",330
+1,william98,customer,"please can you separate them already, the servers and their payment",329
+1,william98,customer,"what i was avoiding just happened, i saw your invoice",328
+1,william98,customer,hello,327
+1,william98,customer,awesome,326
+1,haider.jafri,agent,"It is stable, the load avg is 3",325
+1,william98,customer,how is the load now,324
+1,william98,customer,great news,323
+1,william98,customer,interesting,322
+1,william98,customer,wow!!!,321
+1,haider.jafri,agent,There are no more queries in MySQL and load is rapidly decreasing.,320
+1,william98,customer,i just made an option and disabled that,319
+1,haider.jafri,agent,"Currently this query is eating your resources: ""Sending select * from `comments` where `comments`.`parent_id` =""",318
+1,william98,customer,?,317
+1,william98,customer,so wait what is eating resources now,316
+1,haider.jafri,agent,Yes,315
+1,william98,customer,so right now the comments is taking lost of cpu resources,314
+1,william98,customer,i would optimise the code later this evening,313
+1,william98,customer,but it's been long,312
+1,haider.jafri,agent,Can you revert them?,311
+1,william98,customer,interesting,310
+1,william98,customer,yes,309
+1,haider.jafri,agent,Have you made any recent changes?,308
+1,haider.jafri,agent,"No these queries are exerting load ""select * from `comments` where `comments`.`parent_id` = 13190""",307
+1,william98,customer,great,306
+1,william98,customer,okay cool,305
+1,haider.jafri,agent,The server is stable now I have truncated the sessions table as well.,304
+1,haider.jafri,agent,Alexabot is not blocked by the server configurations.,303
+1,william98,customer,*allow,302
+1,william98,customer,alexa is suppose to be allo,301
+1,william98,customer,User-agent: Alexabot Disallow:,300
+1,william98,customer,"so what would happen after this surge, we would move to redis do a test and simulation tonight so as to reduce downtime like this",299
+1,william98,customer,please do,298
+1,william98,customer,okay,297
+1,haider.jafri,agent,I am trying to make it stable by tweaking PHP-FPM configuration.,296
+1,haider.jafri,agent,"Yes, it is due to load because due to MySQL queries PHP-FPM children proccesses are piling up.",295
+1,william98,customer,let me change to redis then we refresh,294
+1,william98,customer,?,293
+1,william98,customer,is it bacause of the load,292
+1,william98,customer,we are seriously getting cloudflare errors,291
+1,haider.jafri,agent,ok,290
+1,william98,customer,let us not do it now,289
+1,william98,customer,let us do it in the mid night,288
+1,haider.jafri,agent,"I am unable to execute to the truncation due to high number of operation in queue, can I temporarily stop the PHP-FPM service which will cause a downtime?",287
+1,william98,customer,when you do let me know,286
+1,william98,customer,thank you,285
+1,haider.jafri,agent,Sure,284
+1,william98,customer,can you truncate the session table for me,283
+1,haider.jafri,agent,"It seems that there a is a very high number of entries in session table due to which it is taking vary long to complete these queries, furthermore, I will suggest you to run this query more frequently in future if it is possible so these sessions table never fills up that much.",282
+1,william98,customer,you know what,281
+1,william98,customer,hmm it is in the core of laravel,280
+1,haider.jafri,agent,"Yes, I am referring to that query ""delete from `sessions` where `last_activity` <= ?""",279
+1,william98,customer,i.e for the session @laravel right,278
+1,haider.jafri,agent,"How this delete query is being executed, can you stop it?",277
+1,haider.jafri,agent,I am getting this page,276
+1,haider.jafri,agent,<@haider.jafri> uploaded a file: <https://cw-premium.slack.com/files/haider.jafri/F6T5GMPFB/2017-08-25_16h36_02.png|2017-08-25_16h36_02.png>,275
+1,william98,customer,<http://www.lindaikejisblog.com/2017/8/couple-on-their-way-to-abuja-escape-unharmed-from-ghastly-motor-accident.html>,274
+1,william98,customer,Error 503 Backend fetch failed  Backend fetch failed,273
+1,william98,customer,you advise i change it from database,272
+1,haider.jafri,agent,"Why are your storing your sessions in database, can you change it to file?",271
+1,william98,customer,but i am getting error,270
+1,haider.jafri,agent,Redis is receiving requests,269
+1,william98,customer,let us monitor,268
+1,william98,customer,kindly check cache are using redis now,267
+1,haider.jafri,agent,Ok,266
+1,william98,customer,"okay, i just changes it to redis",265
+1,haider.jafri,agent,Many of these queries are running for more than 240 seconds.,264
+1,haider.jafri,agent,This query is running in a large number : `delete from `sessions` where `last_activity` <= ?`,263
+1,william98,customer,but i changed the driver to database,262
+1,haider.jafri,agent,They are some session related queries.,261
+1,haider.jafri,agent,MySQL queries are exerting load on the server.,260
+1,haider.jafri,agent,Currenlt load is 45,259
+1,william98,customer,what is the current load and is any process eating server resources,258
+1,haider.jafri,agent,"The application is accessible, I am checking the serve as well.",257
+1,william98,customer,we are getting a cloudflare error,256
+1,william98,customer,is there load on the server,255
+1,william98,customer,test,254
+1,haider.jafri,agent,Can you please confirm the application please?,253
+1,haider.jafri,agent,Sure,252
+1,william98,customer,can you add alexa bot to the robot.txt file please,251
+1,haider.jafri,agent,Can you share the response you are getting from the API server?,250
+1,william98,customer,i have a function that executes this,249
+1,haider.jafri,agent,Can you also share that how your are posting data to API server?,248
+1,haider.jafri,agent,"The code seems correct, are you have any issues in executing it?",247
+1,william98,customer,okay,246
+1,U2W7MUB97,agent,"Ok, please wait let me double check it.",245
+1,william98,customer,for purging,244
+1,william98,customer,"$api_key = 'MovFcE7QLj735fqVwEWc0yYmnD7E5g';         $email = '<mailto:williamnwogbo@gmail.com|williamnwogbo@gmail.com>';         $cw_api = new \CloudwaysAPIClient($api_key, $email);         $servers = $cw_api->get_servers();         foreach($servers as $server) {             if($server->id == ""104017"") {                 $cw_api->service_varnish($server->id, 'purge');             }\",243
+1,U2W7MUB97,agent,"Which code you are referring here? Sure, please share here.",242
+1,william98,customer,?,241
+1,william98,customer,can i share code here,240
+1,U2W7MUB97,agent,It should reflect on same time.,239
+1,william98,customer,"when i purge vanish, how long does it take to reflex",238
+1,U2W7MUB97,agent,Are you asking for cache time or purge option of varnish?,237
+1,U2W7MUB97,agent,Hello <@william98>,236
+1,william98,customer,how long does it take for the vanish cache to clear,235
+1,william98,customer,hello,234
+1,customer-success,agent,"Further, as far as invoice is concerned you will soon receive an email from our billing team.",233
+1,customer-success,agent,<https://support.cloudways.com/how-to-transfer-server-to-another-account/>,232
+1,customer-success,agent,For transfer please follow below KB:,231
+1,customer-success,agent,Kindly transfer your server from current account to another for separate billing,230
+1,customer-success,agent,Hi <@william98>,229
+1,william98,customer,thanks,228
+1,customer-success,agent,Thanks for providing detail.,227
+1,william98,customer,boonbuy,226
+1,william98,customer,New Server,225
+1,customer-success,agent,<@william98> Please share which server you want to transfer on other account and which one you will keep in your current one?,224
+1,william98,customer,okay great,223
+1,customer-success,agent,"Okay, I am sending your request to billing team and they will contact you in this matter.",222
+1,william98,customer,?,221
+1,william98,customer,so i can put the client card there,220
+1,william98,customer,without interruption,219
+1,william98,customer,can the second server be moved to another account,218
+1,william98,customer,how do we do this now,217
+1,william98,customer,SHIT!!!!,216
+1,customer-success,agent,"I'd like to inform you here, invoice generates per account not per server",215
+1,william98,customer,i taught there was a way to generate invoice per server,214
+1,william98,customer,how do we resolve this,213
+1,william98,customer,i wouldnt want that client to pay for a server she is not using,212
+1,william98,customer,"right now, it is one client card that is connected to this account",211
+1,william98,customer,so the clients are suppose to pay seperately,210
+1,customer-success,agent,You will get one invoice and you can see cutoff charges of each server,209
+1,william98,customer,and they are two different client,208
+1,william98,customer,so i need the invoice for server 1 to be different from server 2,207
+1,william98,customer,hello,206
+1,customer-success,agent,yes,205
+1,william98,customer,the ip address of the server,204
+1,customer-success,agent,Please share the IP address,203
+1,william98,customer,a record,202
+1,william98,customer,so i linked the domain to the ipaddress,201
+1,customer-success,agent,Please let us know on which application you have defined this domain,200
+1,customer-success,agent,"Further, we didn't find domain name admin in Cloudways console. <http://prntscr.com/gc9fnf>",199
+1,william98,customer,great,198
+1,customer-success,agent,"108.162.219.86 - - [23/Aug/2017:21:55:33 +0000] ""GET / HTTP/1.0"" 200 39082 ""-"" ""Mozilla/5.0 (compatible; Alexabot/1.0; +<http://www.alexa.com/help/certifyscan;>)'""",197
+1,customer-success,agent,The requested bot is configured now,196
+1,customer-success,agent,Please hold on,195
+1,william98,customer,"i dont want vanish on this domain ""<http://admin.lindaikejisblog.com|admin.lindaikejisblog.com>""",194
+1,william98,customer,hello?,193
+1,william98,customer,<http://admin.lindaikejisblog.com|admin.lindaikejisblog.com>,192
+1,william98,customer,is vanish working on this domain,191
+1,william98,customer,also i have <http://admin.lindaikejisblog.com|admin.lindaikejisblog.com>,190
+1,william98,customer,"basically can you add the top search engines to robot.txt, so they can index the website",189
+1,william98,customer,great,188
+1,william98,customer,okay,187
+1,customer-success,agent,Sure. Please wait,186
+1,customer-success,agent,"Hi, This is Zubair here from Customer Success",185
+1,william98,customer,to my robot.txt file,184
+1,william98,customer,can you add alexabot,183
+1,william98,customer,hello,182
+1,hassam,agent,glad to know.,181
+1,william98,customer,:+1:,180
+1,william98,customer,it works now,179
+1,hassam,agent,let me take a look and get back to you,178
+1,william98,customer,what is causing the error,177
+1,hassam,agent,"yes, xml is supported on the server.",176
+1,hassam,agent,Hi,175
+1,william98,customer,hello?,174
+1,william98,customer,<http://lindaikejisblog.com/sitemap.xml>,173
+1,william98,customer,is xml supported by the server,172
+1,william98,customer,it worked,171
+1,william98,customer,thanks,170
+1,haider.jafri,agent,Can you try purging the cache from CloudFlare?,169
+1,haider.jafri,agent,I believe that is some issue due to the CDN. As it is showing to me but not working from a US location.,168
+1,haider.jafri,agent,"Ok, I double checking it.",167
+1,william98,customer,it is not showing it,166
+1,william98,customer,i used mozilla,165
+1,william98,customer,same thing,164
+1,william98,customer,okay,163
+1,haider.jafri,agent,"because I am seeing that it is allowed even the bot is crawling on your site, kindly check the 2nd screenshot I have shared. It is from your acceess logs.",162
+1,haider.jafri,agent,"I believe your are viewing a cache version, can you check in a fresh browser?",161
+1,william98,customer,<@william98> uploaded a file: <https://cw-premium.slack.com/files/william98/F6QNLGVFF/link.jpg|link.JPG>,160
+1,haider.jafri,agent,<@haider.jafri> uploaded a file: <https://cw-premium.slack.com/files/haider.jafri/F6PUTQUGG/2017-08-18_21h04_40.png|2017-08-18_21h04_40.png>,159
+1,haider.jafri,agent,TwitterBot is crawling on your applciation,158
+1,haider.jafri,agent,It is displaying in your robot.txt,157
+1,haider.jafri,agent,<@haider.jafri> uploaded a file: <https://cw-premium.slack.com/files/haider.jafri/F6QGAMKUK/2017-08-18_21h02_13.png|2017-08-18_21h02_13.png>,156
+1,william98,customer,and twitter cannot preview our page,155
+1,william98,customer,<http://www.lindaikejisblog.com/robots.txt>,154
+1,william98,customer,but it is not displaying on that url,153
+1,haider.jafri,agent,"Yes, the rule you have added in robot.txt seems correct",152
+1,william98,customer,<http://www.lindaikejisblog.com/robots.txt>,151
+1,william98,customer,can you add it,150
+1,william98,customer,yes,149
+1,haider.jafri,agent,"You want to allow twitter bot through robot.txt, right?",148
+1,william98,customer,so it should show,147
+1,william98,customer,i have removed the bots,146
+1,william98,customer,i need the robots.txt to show twitterbot,145
+1,william98,customer,wait,144
+1,haider.jafri,agent,Can you provide the .htaccess you have in your Git?,143
+1,haider.jafri,agent,May be I have changed the order.,142
+1,haider.jafri,agent,yes,141
+1,william98,customer,the .htaccess in the public,140
+1,william98,customer,which of them did you edit,139
+1,william98,customer,okay wait,138
+1,william98,customer,merge conflict,137
+1,haider.jafri,agent,I am done now,136
+1,william98,customer,tell me when you are done,135
+1,haider.jafri,agent,Sure,134
+1,william98,customer,i want to use git to update it,133
+1,william98,customer,kindly add it back,132
+1,haider.jafri,agent,I have already removed it,131
+1,william98,customer,ohh let me remove it,130
+1,haider.jafri,agent,"I found that you have blocked TwitterBot from .htaccess file, I have removed the restriction for TwitterBot.",129
+1,william98,customer,i added twitterbot,128
+1,william98,customer,but check <http://www.lindaikejisblog.com/robots.txt>,127
+1,william98,customer,okay thanks,126
+1,haider.jafri,agent,I have unblocked all the bots which were previously blocked through Nginx. I am further investigating and will update you shortly.,125
+1,william98,customer,hello?,124
+1,william98,customer,ssh and check it,123
+1,william98,customer,but it is not showing,122
+1,william98,customer,i added User-agent: Twitterbot Allow: /,121
+1,william98,customer,<http://www.lindaikejisblog.com/robots.txt>,120
+1,william98,customer,my robots.txt file,119
+1,william98,customer,no,118
+1,william98,customer,okay,117
+1,haider.jafri,agent,"Can you please check now, if the bot is still being blocked?",116
+1,william98,customer,hello,115
+1,haider.jafri,agent,"Ok, I am checking it. Please wait.",114
+1,william98,customer,we disabled some bots earlier on when we launched the website,113
+1,haider.jafri,agent,"It should be already enabled, are you having any issues with it?",112
+1,william98,customer,so it can crawl the website,111
+1,william98,customer,twitter bot,110
+1,haider.jafri,agent,Hi,109
+1,william98,customer,guys can you enabled,108
+1,william98,customer,hi,107
+1,cloudways.ahmed,agent,or you will do it on your own,106
+1,cloudways.ahmed,agent,Should I set it to run every 5 minute,105
+1,william98,customer,okay do that,104
+1,william98,customer,ohh i see,103
+1,cloudways.ahmed,agent,"is there any option to set it to run every 5 minute, other wise the cron processes will be pilling up.",102
+1,cloudways.ahmed,agent,and have just killed the artisan processes which were stuck since 12th August 2017,101
+1,cloudways.ahmed,agent,Seems like it is also helping quite effectively in increasing the server load,100
+1,william98,customer,i am currently running something on the server,99
+1,william98,customer,yes,98
+1,cloudways.ahmed,agent,<@william98> Seems you have set the artisian cron to run every minute,97
+1,cloudways.ahmed,agent,"Ok I would like you to do not make any change now, we are monitoring some other parameters",96
+1,william98,customer,except we simulate the traffic,95
+1,william98,customer,we cannot test,94
+1,cloudways.ahmed,agent,But we suggest our customers to first test any sort of change on the staging before pushing on the live one,93
+1,cloudways.ahmed,agent,Sure <@william98> We will help you out,92
+1,william98,customer,if issues arises and i cannot work help me change it to database,91
+1,william98,customer,i would change to redis,90
+1,william98,customer,i need you to promise me something,89
+1,william98,customer,okay,88
+1,cloudways.ahmed,agent,"This is what I am saying, with Redis we hope that the issue won't occur but still requires bit of testing. Without any such environment, I can not concrete my words. Let see",87
+1,william98,customer,before doing that,86
+1,william98,customer,i want to know,85
+1,william98,customer,not yet,84
+1,cloudways.ahmed,agent,Have you set the redis as the session handler?,83
+1,william98,customer,with redis?,82
+1,cloudways.ahmed,agent,"It depends <@william98> As per current setup, the query should not take much time but issue occurs because of the excessive number of queries.",81
+1,william98,customer,?,80
+1,william98,customer,does it eat cpu resources,79
+1,william98,customer,can redis crash,78
+1,cloudways.ahmed,agent,you may use the following command to monitor the redis  redis-cli monitor,77
+1,cloudways.ahmed,agent,Ok then try Redis for the sessions,76
+1,william98,customer,no prefix,75
+1,cloudways.ahmed,agent,Sure,74
+1,william98,customer,let me google,73
+1,william98,customer,laravel does that,72
+1,cloudways.ahmed,agent,Is there any special string or prefix for the sessions?,71
+1,william98,customer,right?,70
+1,william98,customer,so would redis be a good solution,69
+1,william98,customer,and we cannot tell which session belongs to an admin,68
+1,william98,customer,and they were complaining so much,67
+1,william98,customer,"the problem with that is, it disconnects the admin users",66
+1,cloudways.ahmed,agent,without imposing load on the server,65
+1,cloudways.ahmed,agent,"Well setting up as Files will not slow down, because we have applied the cron job which  will be deleting the old sessions",64
+1,william98,customer,interesting,63
+1,cloudways.ahmed,agent,<@cloudways.ahmed> uploaded a file: <https://cw-premium.slack.com/files/cloudways.ahmed/F6PAPHVD1/2017-08-16_20h19_29.png|2017-08-16_20h19_29.png>,62
+1,william98,customer,i dont want to use files,61
+1,william98,customer,if we change it to redis would it be preferred,60
+1,cloudways.ahmed,agent,Let me show the screenshot,59
+1,cloudways.ahmed,agent,Yes,58
+1,william98,customer,?,57
+1,william98,customer,that is what is eating resources right,56
+1,cloudways.ahmed,agent,Execut updating delete from `sessions` where `last_activity` <= ?,55
+1,cloudways.ahmed,agent,the following query is running multiple time which I believe is killing the orphaned sessions,54
+1,william98,customer,files was slowing down the server,53
+1,william98,customer,i have,52
+1,cloudways.ahmed,agent,instead of FILES,51
+1,cloudways.ahmed,agent,<@william98> Seems like you have set the database as the session storage,50
+1,cloudways.ahmed,agent,ok please hold. Let me check,49
+1,william98,customer,and also what currently is eating cpu resources,48
+1,william98,customer,people what is the load average,47
+1,william98,customer,great,46
+1,cloudways.ahmed,agent,"Sure, we are here to serve you in any way we can. Do not need to worry about any thing",45
+1,william98,customer,i am updating the code so i would need you guys,44
+1,william98,customer,i repushed,43
+1,william98,customer,i have created the file,42
+1,william98,customer,ohh okay,41
+1,cloudways.ahmed,agent,And I believe it's not a correct one,40
+1,cloudways.ahmed,agent,<@william98> Your script is looking for the file on the following path:  /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/composer/../../app/cloudway.php,39
+1,william98,customer,kindly run composer update,38
+1,cloudways.ahmed,agent,"I think the path of the application which you have specified is not correct, let me check",37
+1,william98,customer,/mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/ in /mnt/data/home/104017.cloudwaysapps.com/wavgpmavmb/public_html/vendor/composer/autoload_real.php on line 66,36
+1,william98,customer,so here is what i get on console,35
+1,cloudways.ahmed,agent,"sure you can test it on your server. Let me know, if you face any issue",34
+1,william98,customer,i want to test it now,33
+1,cloudways.ahmed,agent,You can also get the server ID by running the following command on the shell    hostname | awk -F. '{print $1}',32
+1,cloudways.ahmed,agent,Server ID = 104017,31
+1,william98,customer,thanks,30
+1,cloudways.ahmed,agent,Ok please wait. Let me share,29
+1,william98,customer,how do i get the server id,28
+1,U3QH1LMSN,agent,Please let us know if you face any issues in it. We would be glad to assist you,27
+1,U3QH1LMSN,agent,<https://www.cloudways.com/blog/automatically-purging-varnish-cache-using-cloudways-api/>,26
+1,U3QH1LMSN,agent,You can also do this from Cloudways API,25
+1,U3QH1LMSN,agent,Have you tried clearing from Cloudways console?,24
+1,william98,customer,how do i clear it via code,23
+1,william98,customer,so that the update can reflex,22
+1,william98,customer,i need to clear vanish,21
+1,U3QH1LMSN,agent,Ok please go on,20
+1,william98,customer,when the admin edits a post,19
+1,william98,customer,so right now,18
+1,william98,customer,i need your help,17
+1,U3QH1LMSN,agent,Ok thanks for the info,16
+1,william98,customer,okayd,15
+1,william98,customer,it was,14
+1,william98,customer,yes,13
+1,customer-success,agent,<@customer-success> uploaded a file: <https://cw-premium.slack.com/files/customer-success/F6P1YKGF5/william.alert.png|william.alert.png>,12
+1,customer-success,agent,We have just now received an alert on our monitoring system regarding your site . It seems that you are working on the site as it is showing up a maintenance page.,11
+1,customer-success,agent,Hi William this is S.Rafat,10
+1,customer-success,agent,Pleasure,9
+1,william98,customer,okay thanks,8
+1,customer-success,agent,Thanks a lot for your patience. I have checked your server and the uptime indicated on it is 31 days more over I cannot see any traces of any core process to get down.,7
+1,william98,customer,"i wanted to apology for thurday friday, i was tensed",6
+1,william98,customer,okay thanks,5
+1,customer-success,agent,Let me check your server to get known regarding the issue,4
+1,william98,customer,great,3
+1,customer-success,agent,"Hi there , this is S.Rafat From Cloudways Customer Success.",2
+1,william98,customer,what happenend ?,1
