@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Setting the variables values') {
       steps {
-        sh 'echo "Hello World"'
+        sh 'pwd && hostname'
       }
     }
   }
